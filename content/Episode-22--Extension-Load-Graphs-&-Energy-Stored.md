@@ -1,0 +1,65 @@
+---
+title: "Episode 22: Extension/Load Graphs & Energy Stored"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='0K8C1iUyE'/>
+- T - Welcome back everybody.. In the previous episode we introduced the idea of objects changing their shape when **force**s are applied to them and brought in the concepts of stress, strain, elastic modulus and Hooke’s Law.<span id='XQxZT_77p'/>
+- H - In this episode we’ll get onto a bit more about the concepts of plasticity, elastic limit and how to calculate the **work done** when you are stretching a spring.<span id='E4fVdRz-R'/>
+- T - Here’s what it says in the syllabus about Elastic and Plastic behaviour:<span id='bUOWkpUtV'/>
+- You need to be able to<span id='WiodnQl0s'/>
+- a) distinguish between elastic and plastic deformation of a material<span id='5O9Wdbvfs'/>
+- b) understand that the area under the **force**-extension graph represents the **work done**<span id='Cnjz7w83S'/>
+- c) deduce the strain energy in a deformed material from the area under the **force**-extension graph<span id='-UIRyTzZd'/>
+- **T- Okay so what’s the big idea? What did we observe?**<span id='EMQLE0YDm'/>
+- H- Well, the big idea is that sometimes an object returns exactly to its previous configuration after you remove the **force** that’s been deforming it, whereas other objects become permanently changed.<span id='ALzLC-6bm'/>
+- T - Yes, we might be able to guess that the adjective ‘elastic’ is used to describe objects that return to their previous shape, but the word ‘plastic’ is a little more unusual.<span id='VTCK_ieSv'/>
+- H - Yes, sadly this is yet another word that has a different meaning in everyday English from its precise use in the language of [[Physics]].<span id='Uq6s-Howp'/>
+- T- So, what does ‘plastic’ mean as a term in [[Physics]]?<span id='3J-2pQYdR'/>
+- H- Well, a ‘plastic’ material is simply one that doesn’t return to its original shape. Plasticity is the ability of an object to have its shape changed, and you may have heard the word when describing the brain’s ability to learn new information or practices. People talk of brain plasticity, which is literally the ability of the brain to change its internal structure. A human brain is very plastic up to the age of around 24 months, after which it becomes increasingly less able to change its internal structure and hence ‘learn new things’.<span id='IZx4GVrF0'/>
+- T- However, recent studies indicate that adults’ brains are much more plastic than was previously thought and it may just be that since adults are typically exposed to far fewer ‘new stimuli’ than babies, their brains __appear to be__ less plastic. There is an interesting study conducted by University College, London on London taxi drivers. The results showed that adult taxi drivers demonstrated the ability to change their brains’ internal structure to enhance the size of the area in the hippocampus responsible for navigation. Which makes sense as in those days they didn’t used to have GPS systems, or SatNav on their phones and had to memorise all the streets of London in order to qualify as taxi drivers!<span id='2y1nu3sE0'/>
+- H - Great, and where could I find out more about this?<span id='VbZ-KeVTn'/>
+- T - If you google ‘maguire 2006 hippocampus’ you’ll find the paper, and if you just google ‘UCL taxi driver study’ you should find a few news reports on it.<span id='3KeHSxgZz'/>
+- T - OK, so let’s get back to the [[Physics]]<span id='TFCUOP2DA'/>
+- H - Indeed. So, let’s have a more detailed look about elastic and plastic behaviour.<span id='0X-QK5BTm'/>
+- T - The best way to understand this is from a graph, so I’ve uploaded some **diagrams** in the notes section.<span id='H9D5Ga_Id'/>
+- H - You do a simple experiment where you put tensile stress on a solid (i.e. you stretch it) and measure how much it extends.<span id='6kx_jg9YJ'/>
+- T - You plot a graph.<span id='34OPfto84'/>
+- H - For most materials, the graph will start out as a straight line, as it obeys Hooke’s Law for small loads.<span id='O5Y__eg9q'/>
+- T - After a critical point, the plot will no longer be a straight line, it will be a curve, and these two regions represent the elastic and the plastic behaviour respectively.<span id='KxfSg9P16'/>
+- H - The straight part means that the extension is proportional to the load and it also means that the object is behaving elastically.<span id='f4SPCrLci'/>
+- T - The curved part means that the extension is no longer proportional to the load and the object is exhibiting plastic behaviour.<span id='cV7tIiug_'/>
+- H - The key thing to spot from the graph is the point at which the straight line changes to become a curved line. This is called the Elastic limit, which is defined as the maximum amount a material can be stretched by a **force** and still return to its original shape.<span id='N7a4XLrSM'/>
+- T - After this point, there is a large __permanent__ change in length with no extra load **force**. The material is said to have ‘yielded’ and the point at which this happens is called the yield point. The yield point is the interface between elasticity and plasticity.<span id='CnnyXwvu9'/>
+- H - It would be really good to have a look at the notes now and see the graph and have a read through the explanation.<span id='13K5tTZC8'/>
+- T - So, like ‘stop the tape now’ or something like that! Or whatever you young people do these days… :)<span id='q6GsmPAud'/>
+- H - At this point we should probably bring in two other words that we often use to describe material behaviour in response to an applied **force**; brittle and ductile.<span id='DyF4Vc1Vo'/>
+- T - Yes, materials that break easily, like glass are called ‘brittle’. They might be elastic or plastic under very small loads, but they easily reach a point when they can no longer absorb an external **force** and they break apart. They absorb very little energy and change their shape very little before they snap.<span id='fKKHKLTiW'/>
+- H - The opposite is called ductile behaviour. If an object deforms a lot, either elastically or plastically, before it breaks, like clay, it is called ductile. Ductile materials also absorb a lot of energy. They bend, or flow and the word ‘ductile’ comes from the Latin verb ‘ducere’ which means to lead. So, ductile material is easily ‘led’ into a new shape.<span id='5lzEKjqXi'/>
+- T - And this is how you can remember it, because one of the most common, easily led materials, is the metal, lead! Element number 82, chemical symbol Pb.<span id='tcb8K8BKf'/>
+- H - And now we’ll have a look at the final aspect of this chapter, how to relate the **work done** when stretching a material to the energy stored in the material.<span id='NZxL2nKJc'/>
+- T - OK, the **work done** when a **force** moves through a certain distance is given by the **force** multiplied by the distance, we discussed this in earlier chapters in Unit 6.<span id='FIPvpODbK'/>
+- H - And so we can use this fact to work out the **work done** when stretching a spring or a wire. Luckily, in the region of the graph where the material obeys Hooke’s Law we have a linear relationship. That’s just a fancy way of saying the graph is a straight line.<span id='Lu_PFPE0q'/>
+- T - And this is important because if you have a linear relationship, it means the **force** is increasing evenly. You know, double the extension, double the **force** etc.<span id='MPIVAVbB2'/>
+- H - What’s neat about a linear relationship is that we can easily work out the total **work done** in stretching the spring, EVEN THOUGH THE **force** IS CHANGING all the time we stretch the spring.<span id='U_7yjWuNe'/>
+- T - I don’t get that exactly. Why is that important?<span id='LkkmyolqJ'/>
+- H - Well the **work done** by a **force** is equal to the distance moved by the **force**, multiplied by the **force** itself.<span id='B_QpZ2z0B'/>
+- T - Yep, I remember that from our earlier units. So what?<span id='I1aAL6XM4'/>
+- H - Well, let’s imagine we attach a mass of 1kg to a spring (giving a **force** of 10 newtons) and the spring extends by 0.1 metres. You might think the **work done** by stretching that spring would simply be calculated by multiplying the **force** (10 newtons) by the distance moved by the **force** (0.1metres)<span id='jaVrumCQI'/>
+- T - Yes, you would think that, because that’s the formula. **work done** equals **force** times Distance.<span id='xMyxj7lJc'/>
+- H - However, the trick to realise is that the formula only works for a constant **force** and the **force** involved in the stretching of the spring is not constant. It changes all the time.<span id='TQaBuTvsG'/>
+- T - Yes, the spring stretches until the upwards **force** on the attached mass due to the spring exactly matches the downward **force** on the mass due to gravity.<span id='Kc2CfX9Im'/>
+- H - Now we all know that the MORE you stretch the spring, the harder it gets to stretch it. This just means that the **force** exerted by the spring is not the same value all the way through the stretch.<span id='N05_SWgSa'/>
+- T - Of course. So, the final **force** exerted by the spring is 10 newtons in the upwards direction. It must be, because that’s the **force** needed to balance the 10 newtons down by gravity.<span id='KRrVbqQC4'/>
+- H - Exactly. But the initial **force** on the spring is much less. How much less? Well, that’s where we use the fact that there is a linear relationship between the extension and the **force** from the spring.<span id='zfKEY14FO'/>
+- T - Yes, a linear relationship means that the quantities are proportional. So, for half the extension we have half the **force**, for a quarter of the extension we have a quarter of the **force**.<span id='ibNrhMtQT'/>
+- H - Indeed. So the **force** increases in a regular, predictable way from zero initially to a maximum of 10 newtons. And this is the key. Whenever the **force** increases in such a regular way, the average **force** over the whole journey is exactly half of the maximum **force**.<span id='894V5YVjR'/>
+- T - And it’s this AVERAGE **force** that we plum into the equation to find the **work done**.<span id='67gxgZ7q6'/>
+- H - Exactly. **work done** stretching a spring is the average **force** multiplied by the final extension.<span id='ZrYSAUxhp'/>
+- T - So we just say **work done** = half the maximum **force** multiplied by the extension, which in our example would be half of 10 newtons multiplied by 0.1 metres, which is 5 newtons multiplied by 0.1 metres, which is equal to 0.5 joules.<span id='1_PaDD7vR'/>
+- H - Precisely. So whenever we stretch a string, for the part of its journey where it obeys Hooke’s Law (and you can always tell this part because it’s the straight line part on the graph) the **work done** is given by half the maximum **force** multiplied by the extension.<span id='y4fCftPYk'/>
+- T - And the final piece in the puzzle, is that this **work done** in stretching the spring hasn’t disappeared. If we now remove the **force** that stretched the spring, the spring will restore itself back into its original shape using this ‘restoring’ **force**. So, the spring must have had some potential energy ‘stored’ in it as a result of being stretched. (Without energy it couldn’t DO anything of course.)<span id='FeELXfbPp'/>
+- H - And the beauty is that the energy stored IN the spring has come from the **work done** ON the spring. So, we can use the same formula to work out the energy stored in a spring when it is extended by a certain distance ‘x’ under the action of a stretching **force** ‘F’<span id='NkLcZYCBE'/>
+- T - Yes, it’s just equal to one half times F times x<span id='JJVKO39ar'/>
+- H - And since we already established that for the case of springs obeying Hooke’s Law, F is equal to -kx, where k is the ‘spring constant’ if we are given the sprint constant and the extension, we can simply state that the energy stored in the spring when stretched (or compressed) by a distance ‘x’ is equal to ‘one half times k times x squared’ where k is the spring constant. E = ½ times k times x squared<span id='ftrI7AW1y'/>
+- T - OK, so that’s quite enough for now - make sure as always you’re doing all the practice questions on this topic and we’ll see you in the next one!<span id='3YbA3p4Xs'/>
+- H - Yep. It’s been real.<span id='Bo9oSpqDm'/>

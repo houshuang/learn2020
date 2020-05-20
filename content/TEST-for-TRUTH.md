@@ -1,0 +1,45 @@
+---
+title: "TEST for TRUTH"
+---
+
+- [[The Learning Sprint]] Day 5<span id='iVEXSZGAT'/>
+- Overview of Day 5: Test for Truth<span id='UdrGCiiiX'/>
+- Key Objectives<span id='zqRatRiQO'/>
+    - 1. PROVE IT!<span id='1dAZr9YLI'/>
+        - We bring it all together and teach students how to deliver the exam performance of the olympic athlete. To demonstrate their competence, to prove learners can apply their understanding in the relevant context.<span id='x3bQTz-gg'/>
+    - 2. PUBLISH IT!<span id='c35mMlvui'/>
+        - The acid test of students' understanding is the quality of the materials they produce to demonstrate their competence. If these products are high enough quality to be considered valuable to others, outside the context of the sprint, then we will have considered our job to have been well done.<span id='B_48QGwlH'/>
+- 1000 - 1130<span id='UL6lsQAxA'/>
+    - 1. [[Live Action Solving]]<span id='TkRMAhtzV'/>
+        - Smash through as many past paper questions using speed-solving approaches<span id='YcoONJIqj'/>
+        - In pairs<span id='pHa60rOm-'/>
+            - Rapidly scan the question<span id='5jnf96-Ed'/>
+            - Summarise how you __WOULD__ do it - talking through your thought processes out loud<span id='hANFilYwZ'/>
+            - 'Meta is Betta' - the more you abstract the problems to type, the more you talk through general principles, the better.<span id='njdJwZYYu'/>
+            - Important to highlight any traps to avoid, where you expect most people would fall down etc<span id='Io8-FE7E2'/>
+            - There can be a slight competition between pairs to get through as many as possible to the level that your pair would feel comfortable jumping up on the board to demonstrate<span id='qJy4fwUpx'/>
+        - In groups:<span id='tdkC167m1'/>
+            - [[Sprint Master]] chooses at random 10 problems to be performed on the board in this process in front of the [[Subject Expert]]<span id='umUl-brf2'/>
+            - This session is recorded for review in the following session<span id='8cSDPdslQ'/>
+- 1130 - 1200<span id='T07Qa-LVQ'/>
+    - 2. **Detailed Feedback**<span id='bA-V4EfYG'/>
+        - [[Subject Expert]] gives detailed feedback on the performance of the group in the [[Live Action Solving]] session<span id='zHcKyBle0'/>
+- 1200 - 1300<span id='-ipUIlts4'/>
+    - 3. **Pinpoint Mastery**<span id='31PBZpDvG'/>
+        - Students review the feedback from the [[Subject Expert]] and improve their [[Live Action Solving]] techniques focusing on their areas of weakness.<span id='lfVYv6Egc'/>
+- 1300 - 1400<span id='my7iDWJne'/>
+    - **Lunch**<span id='2ExjwNNO0'/>
+- 1400 - 1500<span id='anakyI8pz'/>
+    - 4. Publish<span id='-RafXqNb5'/>
+        - Create fully worked past-paper solutions<span id='7QLbD5PCA'/>
+        - Each student is responsible for producing 3 independent solutions<span id='aJUakirRc'/>
+        - Solutions are posted on publicly available website and/or community app<span id='LwlQxgxBC'/>
+        - video solutions plus written solutions as pdf for each solution<span id='lDibWE1Ja'/>
+        - these then act as an additional resource for future sprints<span id='Z8ons21_t'/>
+- 1500 - 1600<span id='UXg3XkwYo'/>
+    - 5. [[Post-Test]] - must be exactly the same format as [[Pre-Test]]<span id='6x0fiu_DK'/>
+- 1600 - 1700<span id='nxVZ679UM'/>
+    - 6. Wrap-Up<span id='BbGXDJ2Dn'/>
+    - [[Sprint Analysis]] of difference between pre and post tests at individual, team and whole group level<span id='c6jX9b2Zx'/>
+    - [[Sprint Retrospective]] - what went well, what did we learn, and how might we do things differently next time<span id='J68QK0ea6'/>
+    - Student evaluations<span id='_JFrOmDXJ'/>

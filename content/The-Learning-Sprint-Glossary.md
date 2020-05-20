@@ -1,0 +1,53 @@
+---
+title: "The Learning Sprint Glossary"
+---
+
+- A-Z of Terms referenced in [[The Learning Sprint]]<span id='AgXAmqbbZ'/>
+    - Day 1 [[UNPACK the UNCERTAINTY]]<span id='oKZFvF_7W'/>
+    - Day 2 [[FIGURE OUT the FACTS]]<span id='6QNW7r2yn'/>
+    - Day 3 [[ASSIMILATE the ANALOGIES]]<span id='kh8lw7Urt'/>
+    - Day 4 [[SOAK UP the STRATEGIES]]<span id='ddaPRKmpl'/>
+    - Day 5 [[TEST for TRUTH]]<span id='J7w-ROdLt'/>
+    - [[ADEPT Method]]<span id='r2RgNNyjN'/>
+    - [[Anki]]<span id='PZJdPE3Ex'/>
+    - [[Atomic notes]]<span id='PUWI97pTM'/>
+    - [[Attunement]]<span id='mEB6bVFIT'/>
+    - [[Coherence]]<span id='7LFGUB2w0'/>
+    - [[Deep Work]]<span id='bp7q4Q6gw'/>
+    - **Detailed Feedback**<span id='tWPBqeuxv'/>
+    - [[Discernment]]<span id='xy1hRX0hV'/>
+    - [[Embodiment]]<span id='C2fn0ihCu'/>
+    - [[Feynman Technique]]<span id='UrXn4E2wa'/>
+    - [[Insight]]<span id='ARcFQ25tL'/>
+    - [[Live Action Solving]]<span id='ULVNaAp2E'/>
+    - [[Marginal Gains]]<span id='9BJiumfwO'/>
+    - [[One Thing At A Time]]<span id='WItcOjxq-'/>
+    - [[Pareto Principle]]<span id='atnurDd-C'/>
+    - **Pinpoint Mastery**<span id='S2iP0Aisp'/>
+    - [[Post-Test]]<span id='sdiS2YQJq'/>
+    - [[Pre-Test]]<span id='J6l5DRGPX'/>
+    - [[RAM]]<span id='0xRCWOrKo'/>
+    - [[Reverse Learning]]<span id='XHq3J8uM_'/>
+    - [[Setting the Stage]]<span id='bjmw_mv1L'/>
+    - [[SmartWisdom]]<span id='DPQvz3L2I'/>
+    - [[Spaced Repetition]]<span id='GkmTvT-Jz'/>
+    - [[Sprint Analysis]]<span id='lNdlT5wfW'/>
+    - [[Sprint Master]]<span id='5p9SekGuL'/>
+    - [[Sprint Retrospective]]<span id='a-Qx4ddzu'/>
+    - [[Subject Expert]]<span id='PnG56PkiA'/>
+    - [[Talk for Learning]]<span id='E0qSoOpUJ'/>
+    - [[Teach to Six]]<span id='o7jhCc92A'/>
+    - **Teachback**<span id='nvQQhg3_L'/>
+    - [[The CASSIDY Method]]<span id='IOtnxnb2T'/>
+    - [[The Physics of Learning]]<span id='aSlcweErA'/>
+    - [[UFAST]]<span id='ArKZarKr-'/>
+    - [[blank sheet]]<span id='uUTkZcaH0'/>
+    - [[deep learning]]<span id='KaNbW4JjX'/>
+    - [[learning acceleration]]<span id='hC2XdJcgw'/>
+    - [[learning journey]]<span id='o_A3SWlBC'/>
+    - [[learning vehicles]]<span id='SzV5vFoSb'/>
+    - [[learning velocity]]<span id='8yOkzMKkV'/>
+    - [[node map]]<span id='5lG4M33tm'/>
+    - [[subject map]]<span id='rEeYlKHF4'/>
+    - [[topic map]]<span id='EVRqXqf2p'/>
+- Full [[Learn2020 Glossary]] here<span id='XQYN-uiPD'/>

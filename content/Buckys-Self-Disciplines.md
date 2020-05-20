@@ -1,0 +1,25 @@
+---
+title: "Bucky's Self-Disciplines"
+---
+
+- 1. Use myself as an experiment to see what, if anything, a healthy, young male human of average size, experience, and capability with an economically dependent wife and new born child, starting without capital or any kind of wealth, cash savings, credit or university degree could effectively do that could not be done by great nations or great private enterprise to lastingly improve the physical protection and support of all human lives.<span id='VGeMW7zYa'/>
+- 2. Commit all of my productivity toward dealing only with the whole planet Earth and all its resources and cumulative know-how. Observation of my life to date shows that the larger the number for whom I work, the more positively effective I become. Thus, it is obvious that if I work always and only for all humanity, I will be optimally effective.<span id='ptt4jJnSv'/>
+- 3. Seek to do my own thinking, confining it to only experientially gained information.<span id='iKUxvqMT5'/>
+- 4. Seek to accomplish whatever is to be attained in such a manner that the advantage attained would never be secured at the cost of another or others.<span id='7yoTGfz7y'/>
+- 5. Seek to cope with all humanly unfavorable conditions by searching for the family of relevant physical principles involved.<span id='SC8tZ3p-0'/>
+- 6. Reduce my inventions to physically working models and must never talk about the inventions until physically proved or disproved.<span id='J2o6r8SkQ'/>
+- 7. Seek to reform the environment, not the humans. I am determined never to try to persuade humanity to alter its customs and viewpoints.<span id='vblRS_qQL'/>
+- 8. Never promote or sell either my ideas or artifacts or pay others to do so. All support must be spontaneously engendered by evolution’s integrating of my inventions with the total evolution of human affairs.<span id='HtAiQYHrA'/>
+- 9. Assume that nature has its own gestation rates, not only for the birth of each new biological component, but also for each inanimate technological artifact.<span id='y2mg5xGu2'/>
+- 10. Seek to develop my artifacts with ample anticipatory time margins so that they will be ready for use by society when society discovers - through evolutionary emergencies - a need for them.<span id='qb3XeXrPf'/>
+- 11. Seek to learn the most from my mistakes.<span id='hRwNe-blU'/>
+- 12. Seek to decrease time wasted in worried procrastination and to increase time invested in discovery of technological effectiveness.<span id='INoCarbKP'/>
+- 13. Seek to document my development in the official records of humanity by applying for and being granted government patents.<span id='gk5Gwy64Y'/>
+- 14. Above all, seek to comprehend the principles of eternally regenerative universe and discover how humans function in these principles.<span id='8rN3XZrjg'/>
+- 16. Seek to comprehend the full gamut of production tool capabilities, energy resources, and all relevant geological, meteorological, demographic, and economic data.<span id='lvL2Mt8yG'/>
+- 17. Seek to operate only on a do-it-yourself basis and only on the basis of intuition.<span id='7PAVo-JB4'/>
+- 18. Plan for my design science strategies to advantage the new life to be born on Earth, life born unencumbered with the conditioned reflexes so prevalent today.<span id='WBkhz3cPl'/>
+- 19. Commit whole-heartedly to the above and pay no attention to "earning a living" in humanity’s established economic system, yet find that my family’s and my needs are provided for by seemingly pure happenstance and always only in the nick of time.<span id='R8en42q3u'/>
+- 20. I sought to operate only on a do-it-yourself basis and only on the basis of intuition.<span id='OUaLqs2fL'/>
+- 21. I oriented what I called my ‘comprehensive, anticipatory design science strategies’ toward primarily advantaging the new life to be born within the environment-controlling devices I was designing and developing, because the new lives would be unencumbered by conditional reflexes that might otherwise blind them to the potential advantages newly existent within the new environment-control system in which they found themselves beginning life.<span id='QELe87nwK'/>
+- Source: Chapter 4 in Critical Path https://www.amazon.co.uk/Critical-Path-R-Buckminster-Fuller/dp/0312174918<span id='nMfLQal4w'/>

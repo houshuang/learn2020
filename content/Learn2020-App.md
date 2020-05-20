@@ -1,0 +1,25 @@
+---
+title: "Learn2020 App"
+---
+
+- What if online learning could be Better, Simpler and more Cost Effective than going to school? Learn2020 is the collaborative learning school you always wanted to attend: a complex adaptive system for learning.<span id='N7kDgpabj'/>
+- Online. Asynchronous. Personal. Collaborative. Cell-based. Immersive.<span id='PUQcpumOj'/>
+- Learn2020 is Social first. Mobile second. Content third.<span id='ByDh6tDpN'/>
+- ****<span id='x7ZPKEVvy'/>
+- Well you now how most people say that you learn best by doing?<span id='Ap2Io24GZ'/>
+- Well, it's not quite completely true. There are different types of doing when it comes to learning.<span id='VOD4hwKY5'/>
+- The best learning comes through creating. Collaboratively. Learning together through creating solutions to problems, work through challenges, gain insight.<span id='-VZPoYjgD'/>
+- Learn2020 was born in 2020, in response to the COVID-19 pandemic which caused many countries to close their schools. It had been planned for some time, but the global lockdown accelerated the process.<span id='2YYDttGPk'/>
+- A full-stack remote school with the world-class teachers, world-leading learning techniques and neuroscience-informed, evidence-based learning technologies.<span id='A0Mm2iaqF'/>
+- Teachers x Techniques x Technology. T3 for short. Because it’s easy to remember.<span id='2uM0HxNoZ'/>
+- Features:<span id='8Qn-3Rcyx'/>
+- The Learn2020 app is a full-stack remote school, focusing on the international high-school STEM curriculum (ages 14-19) and includes the following:<span id='Dpd4hOVH9'/>
+- Live Masterclasses<span id='r7U8RiaUV'/>
+- Step by Step worked solutions as PDFs<span id='1U-9P4i3G'/>
+- Step by Step worked solution videos<span id='jImUX7lw1'/>
+- Asynchronous mentoring<span id='TXTR7EWeB'/>
+- Shared whiteboards for group collaboration.<span id='vPufaEY9w'/>
+- 2020 vision means perfect vision. 20/20 in each eye. Fighter pilot vision.<span id='TBIna3w7X'/>
+- Learn2020 means ‘Learning with perfect vision: the vision of the future that’s coming.<span id='e0hgZiPbH'/>
+- Learn2020 app website is here https://learn2020.honeycommb.com/login<span id='ro3Ikk3yb'/>
+- hmmm... interesting<span id='TnTpl4cSp'/>

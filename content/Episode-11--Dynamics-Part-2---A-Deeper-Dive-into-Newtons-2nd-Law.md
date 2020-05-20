@@ -1,0 +1,66 @@
+---
+title: "Episode 11: Dynamics Part 2 - A Deeper Dive into Newton's 2nd Law"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='ni7QfqubX'/>
+- H - Carrying on where we left off, let’s just quickly recap that we covered Newton’s 3 Laws of Motion that you should have encountered before and we now just need to get into some examples of how we use these at A Level.<span id='-Qfu7ucI2'/>
+- T - Here’s a summary in plain English:<span id='fAm6qlj-8'/>
+- H - Newton’s 1st Law - Stuff just keeps on going at same speed in the same direction unless acted on by a **force**<span id='mQ5fqqIyI'/>
+- T - Newton’s 2nd Law - If something with a lot of mass is moving very fast, you need a big **force** to change its momentum (direction, speed or mass)<span id='CeoNxwg55'/>
+- H - Newton’s 3rd Law - **force**s happen in equal and opposite pairs<span id='_RB9IRvhP'/>
+- T - Let’s give a few implications of these laws in practice:<span id='1cKloGAnN'/>
+- The moon’s direction is being constantly changed by the pull of the Earth. (Newton 1)<span id='Q5dmBsUiB'/>
+- H - A cart pulls a horse backwards with the same **force** the horse pulls the cart forwards. (Newton 3)<span id='8ajoEkkqw'/>
+- T - A rubber bullet is more likely to knock over a target than a lead one - if both bullets are the same mass and are moving at the same speed. (Newton 2)<span id='fZcXwEgpV'/>
+- H - The **force** with which the earth pulls you down and the **force** with which you pull the earth up are the same size. (Newton 3)<span id='_QTn54jrW'/>
+- T - So, how does this work then, a lot of these statements seem counter-intuitive, like - how can it really be that you pull the Earth up with the same **force** that the Earth pulls you down?<span id='M9vvy1WFR'/>
+- H -  Well, Newton’s second law can, in this case be written **force** = mass x **Acceleration**, or F = ma<span id='fuOV5xxag'/>
+- And the SAME **force** can create quite different effects if it acts on different bodies, since the MASSES of the bodies are different.<span id='st3jkutEx'/>
+- T - Right, so like the swimmer moves forward because the mass of the water in the pool is so much greater than the swimmer, in the case of a person falling towards the Earth, we move towards the Earth because our mass is so much smaller than the mass of the Earth. Our **Acceleration**, which is a measure of our motion, is large compared to the **Acceleration** of the Earth, which is negligible.<span id='QfsuxpD1v'/>
+- Technically, in the case of a person falling towards the ground, BOTH the Earth and the person do accelerate towards the combined centre of mass of the Earth-Person system.<span id='9EFZzq6OT'/>
+- But since the Earth’s mass is around 10 to the power 22 times GREATER than the mass of the person, the Earth’s **Acceleration** is 10 to the power 22 times SMALLER than the **Acceleration** of the person.<span id='9DHvuSfo6'/>
+- So, you can’t really observe the **Acceleration** of the Earth.<span id='exoysd77M'/>
+- **T - So, what new things do we need to introduce and define?**<span id='OwjelSsIY'/>
+- H- There’s nothing completely new, although it’s unlikely that many students will have had a really profound understanding of Newton’s Laws from their experiences at GCSE level [[Physics]].<span id='wtwBzNgt-'/>
+- T - The idea of momentum will be a little bit unfamiliar, in that there are seldom problems that involve momentum at GCSE level, and mainly the idea of conservation of momentum being a consequence of Newton’s Third Law is probably a little new.<span id='e_Ot6Xvu2'/>
+- H - It’s really that the conservation of momentum is something we observe, that seems to hold true with no exceptions (so far) and we reason the Third Law from this observation.<span id='itlhZeqj3'/>
+- T - What do you mean by that exactly?<span id='C04T5LlxT'/>
+- H - Well, it’s just that we observe that if we measure the mass x **Velocity** of all objects BEFORE an interaction, and then measure the mass x **Velocity** of all objects AFTER the interaction, we arrive at the same number.<span id='p8goEEFlY'/>
+- It is precisely BECAUSE we end up with the same number that we think there must be something special about the quantity represented by ‘mass x **Velocity**’. If this number was not the same, then we probably wouldn’t have paid much attention to it.<span id='EUPGvP-RS'/>
+- T - But the very fact that this ‘mass x **Velocity**’ thing appears to be conserved is interesting to physicists, and when stuff becomes interesting to physicists we probably are going to find ourselves talking about it a lot.<span id='R62lp_226'/>
+- H - And it’s precisely because we talk about something a lot that we decide to give it its own name. It just makes it easier for everyone to talk about than if we had to keep saying ‘mass x **Velocity**’ is conserved.<span id='6yFn22fMt'/>
+- T - And so we define ‘momentum’ as ‘mass x **Velocity**’ to relieve ourselves of the burden of saying ‘mass x **Velocity**’ all the time.<span id='77Pg2YaWL'/>
+- H - And as an aside, that’s what we do with **force** as well, and Energy, and all these derived quantities.<span id='6SewRer-T'/>
+- T - Yes, the only things we are really ever actually talking about in the whole area of dynamics are the MASS of an object, the DISTANCE an object moves and the TIME an object takes to move. Everything else is just a convenience.<span id='DcPXX61k9'/>
+- **T - What do we need to know, understand, be able to do?**<span id='KY223HR9j'/>
+- H - We need mainly to do problems in the special case of Newton’s Second Law when the mass is constant. This law then reduces to the commonly encountered expression which is given by **force** equals Mass times **Acceleration**, or F = ma<span id='cMMQyDeEH'/>
+- T - So, how do we do PROBLEMS?<span id='vm-AmqzKd'/>
+- H - We look at all the **force**s acting on an object, and we go through a few simple procedural questions to help focus the direction of our thinking:<span id='DdO1MWdpF'/>
+- Question One: Is the **speed** of the object changing?<span id='3Me8bEG8g'/>
+- T - If the answer is yes, we know that there are unbalanced **force**s acting upon it and so we choose the direction of the changing speed and we pay attention to the **force**s that are acting in that direction and ignore **force**s that are acting perpendicular to this direction.<span id='WR_P7iZQ1'/>
+- We know that the combination of these **force**s will give us a net **force**, a ‘resultant’ **force**, and then we set that resultant **force** to be equal to the mass times the **Acceleration** of the object using Newton’s 2nd law.<span id='wO0QAsxUL'/>
+- Resultant **force**, F = ma<span id='qWVaczXc2'/>
+- H - If the answer is no, the second question we ask is…<span id='zYcKT2z5-'/>
+- Question Two: Is the **direction** of the object changing?<span id='-aYfcIVNy'/>
+- It’s possible that the speed of the object may not be changing, but its direction is changing. If the answer to this question is yes, we know that this means its **Velocity** is changing, and that consequently there must be a resultant **force** acting on the object.<span id='WUXnPPOZQ'/>
+- We repeat what we did in Step 1 - pay attention to all the **force**s, and in the direction that the **Velocity** is changing, we use F = ma<span id='uTMMhhazm'/>
+- (we won’t get any problems like this until we do circular motion)<span id='n3cLaZTLr'/>
+- T - If the answer is no, then the final question we ask is this…<span id='O1k9cAEDg'/>
+- Question Three: Is the **mass ** of the object changing?<span id='dT9cHvove'/>
+- It’s possible that the speed and the direction of an object’s motion are not changing, but that there is still a **force** involved. Let us imagine a train travelling at constant speed along a straight track in a severe snow storm. As snow lands on its roof, the mass of the train increases and as a consequence of the conservation of momentum, its **Velocity** will decrease unless the driving engine **force** is increased to compensate for this additional mass.<span id='40cQ7WFEp'/>
+- H - We are unlikely to get problems on this unless we are dealing with questions involving rate of flow of substances like liquids, sand, etc<span id='dptMHIy6e'/>
+- Anyway, if the mass of an object is changing then we know that the momentum of the object must also be changing and since this involves a **force**, we know that we will again be using Newton’s 2nd Law, but we are probably going to use it in a different form - either **force** times Time = Change in Momentum, ( F x t = Change in Momentum) or in the form **force** = Change in Momentum divided by Time<span id='qkLYjm4qC'/>
+- And that’s pretty much it when it comes to questions involving the second law.<span id='YMzr7dhho'/>
+- T - The other type of questions we are going to have to get good at involve the conservation of momentum and they usually involve nothing more than calculating all the momentum (mass times **Velocity**) components of all the moving parts, and making sure that we remember that you can’t create or destroy momentum.<span id='c50BDpatl'/>
+- This just means that if we work out the momentum of all components before an interaction, we should end up with the same answer after an interaction.<span id='4WUIA3Wkl'/>
+- H - For example, let’s say we have an orange of mass 100 g flying through the air at a speed of 8 m/s<span id='w55K1NwJe'/>
+- The orange lands on a stationary roller skate and together the orange and roller skate start moving off in the same direction as the orange with a **Velocity** of 2 metres per second. What is the mass of the roller skate?<span id='UiZZHIn1K'/>
+- T - Newton’s 3rd Law says that momentum before equals momentum after.<span id='efRs5UgNt'/>
+- Total momentum before is just due to the orange, since the roller skate was at rest, and is 0.1 kg x 8 m/s = 0.8 Ns<span id='EEvC1451z'/>
+- The combined skate plus orange move off at 2 m/s and all the momentum is in this combination, so we can say:<span id='vxP8o_4hD'/>
+- (mass of orange + mass of roller skate) x 2 m/s = 0.8 Ns<span id='WTuFNaF-l'/>
+- Which we can rearrange as (0.1 kg + mass of roller skate) = 0.8 Ns divided by  2 m/s = 0.4 kg<span id='SNcjN7Siy'/>
+- From which we can work out that the roller skate has a mass of 0.3 kg<span id='jKn44FwUx'/>
+- H - Right, we’d better wrap this up now. In the next episode we’ll be going into misconceptions in this topic and some of the mechanics conundrums that troubled even the brightest minds over the last few hundred years...<span id='Z4gQR9toF'/>
+- T - Can’t wait!<span id='alndXpxeC'/>
+- **Unlinked References**<span id='p2uxyO_SI'/>

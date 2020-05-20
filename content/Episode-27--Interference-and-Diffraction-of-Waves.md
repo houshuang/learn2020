@@ -1,0 +1,62 @@
+---
+title: "Episode 27: Interference and Diffraction of Waves"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='Ucd2E6dwD'/>
+- Introduction<span id='83DtTEULn'/>
+- T - Welcome back everybody. You’ll remember in the last episode we talked about the superposition of waves and got onto the fact that waves not only add together when they’re in the same place, but they also bend around corners.<span id='IxUxoNi_l'/>
+- H - In this episode we’re going to put those two ideas together and show how this bending around corners can really mess with a wave’s mojo.<span id='HX6B0ITqH'/>
+- T - Yes, this first bit we’re going to talk about is the idea of interference. It’s exactly what you think. Waves interfere with each other. Just like when we covered superposition in the previous episode.<span id='VKY0FmhAD'/>
+- H - It’s simplest to think of three different results when waves interfere with each other:<span id='9eGxMpr2h'/>
+- Peak plus peak = super peak - constructive interference<span id='GLXiwlBmJ'/>
+- Trough plus trough = super trough - also constructive interference<span id='pjdpiGRn1'/>
+- Peak plus trough = nothing (waves cancel each other out) - also known as destructive interference<span id='ArH2yUrTc'/>
+- T - Of course you actually get everything in between, a complete spectrum of different results when two waves end up bumping into each other. The easiest way to solve these problems when you’re drawing graphs is to sort out these special cases first and then fill in the inbetweens after.<span id='HvOLLdqyN'/>
+- H - The reason for this is that each wave has its own set of ‘instructions’ for the medium it’s travelling through. Let’s imagine you have a water wave travelling across the surface of a lake. The wave can be thought of as a series of instructions to the water molecules to move up or down.<span id='E24p9ZEUZ'/>
+- T - Precisely. So, let’s say we now drop two stones into the lake fairly close to each other. Each stone creates an impact in the water which pushes the water molecules near the point of impact either up a bit or down a bit. This energy of impact is effectively the instructions which tell neighbouring water molecules to move up or down and so on. This ‘up and down’ -ness is seen as a bump in the water surface which spreads out as an ever increasing circle in all directions. We usually call it a ‘ripple’.<span id='4spJ2qmZX'/>
+- H - And each ripple is what we see - the set of instructions from each event.<span id='oh6OGSiSK'/>
+- T - So, the key thing to think about is 'when are two different sets of instructions likely to cause constructive and destructive interference.<span id='6dl9FO6Kd'/>
+- H - It turns out with 2 different events, the instructions are difficult to compare easily. Which is why we use an experiment called Young's Double-slit experiment to get a handle on what's going on.<span id='UYMIMl3ue'/>
+- T - What exactly is the double-slit experiment?<span id='3e-LpSXFS'/>
+- H - Well the idea was this: how could we easily compare the instructions from different events, when the events are not coordinated in any way?<span id='PjDATOi8p'/>
+- T - Well we can't. that's the point.<span id='3GUI6Nztz'/>
+- H - Precisely. Young's genius was to design a way of having 2 interfering events that were really following the same set of instructions. So, he set up a single light source (he actually used the sun) and he passed this sunlight through 2 very narrow vertical gaps (slits) that were separated by a very small distance.<span id='fo9CIH6JN'/>
+- T - OK, and what did he find out?<span id='np3YHMGj1'/>
+- H - Well, from diffraction, we know that each slit now acts as a new source of waves. And since these new sources of waves have both come from the same original source, they are totally 'in sync' with each other. This synchronisation of waves has a special physics word which is 'coherence.' The two sources are said to be coherent.<span id='FaCKB2_Cn'/>
+- T - This just means that we can easily spot if they are adding up together constructively or destructively when they are superimposed. Waves ALWAYS interfere both constructively and destructively but it's only when they are coherent that we can observe the interference.<span id='mpekLj_Uy'/>
+- H - So, anyway, it turns out that Young could see a nice interference pattern, much like water waves in a harbour. This was further proof that light had wave tendencies. Newton's point of view - that light was corpuscular (made of particles) was the prevailing view at the time. Because Newton was so influential and it was Young's double slit experiment that showed unequivocally that light was a wave. At least for a while, until Einstein came along with the photo-electric effect and showed that actually light could behave like a particle as well.<span id='9ajku-cg4'/>
+- T - By the way it's worth noting something important here: Light is not both a wave and a particle and it is not neither wave nor particle. Light behaves sometimes like a wave and sometimes like a particle, depending on the experimental setup.<span id='WXTYrRkWG'/>
+- H - Yes. Strange but true. We don't really know what light IS. But we do know how it behaves in certain situations. And more importantly, we can predict how it will behave in these situations, which makes it science after all.<span id='wKdQLwXsD'/>
+- T - It's pretty difficult to explain the geometry behind all this without some diagrams, but we can quote the formula that Young discovered, relating the interference patterns that he observed.<span id='EL1LPMPZ1'/>
+- H - Yes, it turns out that there was constructive interference when the waves were perfectly in phase.<span id='onT3fC25C'/>
+- T - What does in phase mean exactly?<span id='NDozYQ12j'/>
+- H - In phase means that the peak of one wave is exactly on top of the peak of the other. In practice it happens when the waves from each slit had travelled exactly the same distance, or had travelled exactly a whole number of wavelengths less or more than the other.<span id='KsZZImrbs'/>
+- T - Let's say the wavelength was 1 m. If wave A and wave B both travelled 10 m then there would be constructive interference.<span id='aqQ19sttp'/>
+- H - Yes, but also, whenever there was exactly 1 m difference in distance between the path of each wave.<span id='Ytv1_Fgjc'/>
+- T - Aha.<span id='2oV2EnyMY'/>
+- H - And also when there was a 2 m difference? Yes, and a 3 m difference and so on.<span id='ziAxkoPX6'/>
+- T - I get it. So, whenever the path difference was equal to a whole number of wavelengths?<span id='ZaLthiSfd'/>
+- H - Precisely. In fact we can say that the formula for where there will be constructive interference is given by<span id='XCKZAaKyQ'/>
+- $$d\sin\theta =n\lambda$$<span id='N5dVUbesY'/>
+    - where:<span id='AjoRySt9S'/>
+    - $$d$$ = distance between the slits<span id='-Fwptwwvm'/>
+    - $$\lambda$$ = wavelength of light source<span id='-omcHBp-2'/>
+    - $$\theta$$ = angle at which constructive interference is observed<span id='9NHPz9V-9'/>
+    - $$n$$ = integers 0, 1, 2, 3 etc. (n is zero at the bright point in the centre)<span id='sLxbBA-fD'/>
+- T - And if you really wanted to work it out, the dark spaces between the bright spaces would be where there was destructive interference. How would we do that?<span id='e6OdoHAsT'/>
+- H - Well, this is very similar, except that the waves must be out of phase in order to cancel each other out. They do this when one wave is half a wavelength ahead of the other one. That means the peak of one wave hits the trough of the other.<span id='CwotaQyeS'/>
+- So, the formula would be similar, but the path difference has to be half-wavelengths not, full wavelengths.<span id='UvFXnXECQ'/>
+- $$d\sin\theta =(n+1/2)\lambda$$<span id='sA-hj3Mqh'/>
+    - where:<span id='I43Q2HKzg'/>
+    - $$d$$ = distance between the slits<span id='ad4nMUqZY'/>
+    - $$\lambda$$ = wavelength of light source<span id='6HK-gEEOO'/>
+    - $$\theta$$ = angle at which constructive interference is observed<span id='6pTDJfGLh'/>
+    - $$n$$ = integers 0, 1, 2, 3 etc.<span id='suv4QepNQ'/>
+- T- So, what are diffraction gratings then?<span id='_XDaccvb1'/>
+- H- Well really diffraction gratings are the next step up from the double slit arrangement. They are periodic i.e repeating structures that diffract light. Essentially they are infinite arrays of holes that light passes through or is reflected off.<span id='z_7i77EaH'/>
+- T - It's really no different than Young's Slit experiment  - essentially you have the same interference phenomena but it's just easier to observe in everyday conditions since the interference is happening between all adjacent slits<span id='dLlU_t8Uj'/>
+- H - The only difference is that sometimes the diffraction grating's characteristics are expressed in terms of the number of slits per mm, rather than the spacing between slits. In this case you simply calculate the slit spacing $$d$$ as $$1/D$$ where $$D$$ is the number of slits per mm<span id='qt7EM0yRy'/>
+- T - Being careful to convert the answer from mm to metres as all formula use SI units of course...<span id='nNe23Y0cr'/>
+- A nice explanation of the Diffraction Grating is here:<span id='2HxYoFdlh'/>
+    - https://www.youtube.com/watch?v=8GIwQ_QQ9uA<span id='WX3jtVTd6'/>
+- **Unlinked References**<span id='eSdaUzYh5'/>

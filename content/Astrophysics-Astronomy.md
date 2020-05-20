@@ -1,0 +1,87 @@
+---
+title: "Astrophysics/Astronomy"
+---
+
+- Cosmology<span id='K8wS8VXqY'/>
+    - The Big Bang theory states that the universe expanded outwards from a single point. Evidence for this theory includes:<span id='tHglIsYsc'/>
+        - 1. Red shift - A [[Doppler Shift]] towards lower frequency light<span id='R-m9evcQg'/>
+            - The red shift of light from galaxies shows that they are all moving away from us (and each other) and that those which are furthest away are moving the fastest, suggesting that the universe was formed from an explosion at a single point, strong evidence for the Big Bang.<span id='9uqNfYvP6'/>
+        - 2. Cosmic microwave background radiation (CMBR)<span id='G_Uiox1pi'/>
+            - Just after the Big Bang, lots of short wavelength radiation should have been released in all directions from a single, central point. This radiation, as the universe expanded over time, would have 'cooled down'. We would observe the effect of this cooling as the stretching of high frequency, short wavelength radiation to become low frequency, longer wavelength radiation, or microwaves.<span id='gELBIEI23'/>
+            - The fact that there is cosmic microwave background radiation present in all directions, ()wherever you point a telescope in the sky) provides additional evidence for the Big Bang theory.<span id='FeBcXKeS5'/>
+        - As the Big Bang theory is currently the only theory which accounts for all the experimental evidence, it is the most accepted model.<span id='2kcDpfkRI'/>
+- Motion in the universe<span id='33oV-fQYJ'/>
+    - The universe is a large collection of billions of galaxies.<span id='sUC03-AfT'/>
+    - A galaxy is a large collection of billions of stars.<span id='VzNmFR-Aa'/>
+    - Our solar system is in the Milky Way galaxy.<span id='qfGgO8nz6'/>
+    - The gravitational field strength is the **force** per unit mass on a body in a gravitational field and is measured in Newtons per kilogram $$(N/kg)$$. It varies with the mass and size of the body and is therefore different on other planets and the moon compared to the Earth.<span id='qf4__RZey'/>
+    - $$𝑤𝑒𝑖𝑔h𝑡 = 𝑚𝑎𝑠𝑠 × 𝑔𝑟𝑎𝑣𝑖𝑡𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑓𝑖𝑒𝑙𝑑 𝑠𝑡𝑟𝑒𝑛𝑔𝑡h$$<span id='bKvO3--DF'/>
+    - $$𝑊 = 𝑚𝑔$$<span id='8-KB1wlSx'/>
+    - Gravitational **force** enables the various bodies to orbit around others. For example:<span id='-ei2Iwif-'/>
+        - Moons orbit planets<span id='p9C8iHppU'/>
+            - The orbits of moons are slightly elliptical with near constant orbital speed<span id='DJX9Kj0CZ'/>
+        - Planets and comets orbit the Sun<span id='gwB_xkNFH'/>
+            - The orbits of planets are **slightly** elliptical with near constant orbital speed.<span id='xilU-LsZN'/>
+            - The orbits of comets are **highly** elliptical with a greater orbital speed the closer they are to the Sun.<span id='BViKMCiOJ'/>
+        - Artificial satellites orbit the Earth<span id='fNjJU0wNz'/>
+    - Orbital Motion<span id='_hjOxo-Rz'/>
+        - The greater the orbital radius or the smaller the time period, the greater the orbital speed:<span id='apEmLd_yn'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2F87QsyFhwFv?alt=media&token=a69e6947-b679-4baa-a10f-39e61a60e27f)<span id='Q0ec9225Y'/>
+- Stellar evolution<span id='YHb8uCYW8'/>
+    - understand how stars can be classified according to their colour<span id='JNdtFQ2UX'/>
+    - know that a star’s colour is related to its surface temperature<span id='r4eVMAK-b'/>
+    - describe the evolution of stars of similar mass to the Sun through the following stages:<span id='eWoLojOVG'/>
+        - nebula<span id='ibrM-TzFN'/>
+        - star (main sequence)<span id='h_K73kOeX'/>
+        - red giant<span id='bU10Y2Vw5'/>
+        - white dwarf.<span id='fHpl4VglM'/>
+    - describe the evolution of stars with a mass larger than the Sun<span id='vdLlZy7fO'/>
+    - understand how the brightness of a star at a standard distance can be represented using absolute magnitude<span id='0_7Y_uN9b'/>
+    - draw the main components of the Hertzsprung–Russell diagram (HR diagram)<span id='vzYEW38Y7'/>
+- Syllabus References:: CAIE, Edexcel IGCSE, AGA GCSE, Edexcel GCSE<span id='5AZnSRgpa'/>
+    - **CAIE Physics 0625** - not on CAIE Physics 0625 syllabus<span id='snjwI8Vb8'/>
+    - **Edexcel IGCSE Physics** - 8a, 8b, 8c, 8d<span id='N8sqR82Zx'/>
+        - Full Syllabus: https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-Physics-2017-specification.pdf<span id='2XEM9kWh_'/>
+    - **AQA GCSE Physics** - 4.8.1, 4.8.2<span id='-ZzzOIDk1'/>
+        - 4.8.1.1 Our solar system<span id='7t5ziHevw'/>
+            - Within our solar system there is one star, the Sun, plus the eight planets and the dwarf planets that orbit around the Sun. Natural satellites, the moons that orbit planets, are also part of the solar system.<span id='CKmQhcnD_'/>
+            - Our solar system is a small part of the Milky Way galaxy.<span id='MSBPkTxg_'/>
+            - The Sun was formed from a cloud of dust and gas (nebula) pulled together by gravitational attraction.<span id='SHwOwp_Xm'/>
+            - Students should be able to explain:<span id='NWnH8yRfl'/>
+                - how, at the start of a star's life cycle, the dust and gas drawn together by gravity causes fusion reactions<span id='YDynaCQnw'/>
+                - that fusion reactions lead to an equilibrium between the gravitational collapse of a star and the expansion of a star due to fusion energy.<span id='x2szTheiJ'/>
+        - 4.8.1.2 The life cycle of a star<span id='fBqg-IpSE'/>
+            - A star goes through a life cycle. The life cycle is determined by the size of the star.<span id='iP77vBntt'/>
+            - Students should be able to describe the life cycle of a star:<span id='AmccdRppu'/>
+                - the size of the Sun<span id='ctlXLLkYn'/>
+                - much more massive than the Sun.<span id='nFVmPh3E9'/>
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FvC28ULj56y?alt=media&token=bb0895ed-e5ed-46b8-acd6-0c197d41c59a)<span id='GQrHBBr0g'/>
+                - Fusion processes in stars produce all of the naturally occurring elements. Elements heavier than iron are produced in a supernova.<span id='iIUT48Ro7'/>
+                - The explosion of a massive star (supernova) distributes the elements throughout the universe.<span id='nkTV0IRx6'/>
+                - Students should be able to explain how fusion processes lead to the formation of new elements.<span id='VKQ3gLNk3'/>
+        - Full Syllabus here<span id='md-Kc0kI_'/>
+            - https://filestore.aqa.org.uk/resources/physics/specifications/AQA-8463-SP-2016.PDF<span id='UC6hShTyi'/>
+    - **Edexcel GCSE Physics** - 7.1P to 7.19P<span id='xcxlyvJYy'/>
+        - 7.1P Explain how and why both the weight of any body and the value of __g __differ between the surface of the Earth and the surface of other bodies in space, including the Moon<span id='rW6UWHc-J'/>
+        - 7.2P Recall that our Solar System consists of the Sun (our star), eight planets and their natural satellites (such as our Moon); dwarf planets; asteroids and comets<span id='n0qKZnkVF'/>
+        - 7.3P Recall the names and order, in terms of distance from the Sun, of the eight planets<span id='eNaOmURKb'/>
+        - 7.4P Describe how ideas about the structure of the Solar System have changed over time<span id='fFgihUPGt'/>
+        - 7.5P Describe the orbits of moons, planets, comets and artificial satellites<span id='4CxHesutp'/>
+        - 7.6P Explain for circular orbits how the **force** of gravity can lead to changing [[**Velocity**]] of a planet but unchanged speed<span id='dwcXrVbAT'/>
+        - 7.7P Explain how, for a stable orbit, the radius must change if orbital speed changes (qualitative only)<span id='f_mzUB0oh'/>
+        - 7.8P Compare the Steady State and Big Bang theories<span id='PGh4D0Lf0'/>
+        - 7.9P Describe evidence supporting the Big Bang theory, limited to red-shift and the cosmic microwave background (CMB) radiation<span id='Ps4ToZzoD'/>
+        - 7.10P Recall that as there is more evidence supporting the Big Bang theory than the Steady State theory, it is the currently accepted model for the origin of the Universe<span id='AQYOL-LrN'/>
+        - 7.11P Describe that if a wave source is moving relative to an observer there will be a change in the observed frequency and wavelength<span id='2qL7KQXVv'/>
+        - 7.12P Describe the red-shift in light received from galaxies at different distances away from the Earth<span id='0TG37ow78'/>
+        - 7.13P Explain why the red-shift of galaxies provides evidence for the Universe expanding<span id='ezLfEfHBg'/>
+        - 7.14P Explain how both the Big Bang and Steady State theories of the origin of the Universe both account for red-shift of galaxies<span id='pBG7uKuKW'/>
+        - 7.15P Explain how the discovery of the CMB radiation led to the Big Bang theory becoming the currently accepted model<span id='8Bd_kJinY'/>
+        - 7.16P Describe the evolution of stars of similar mass to the Sun through the following stages:<span id='_MS9kXQoH'/>
+            - a nebula<span id='VDNdlf5YP'/>
+            - b star(mainsequence)<span id='ONdIwXiQI'/>
+            - c red giant<span id='6yHY1k5z_'/>
+            - d whitedwarf<span id='nGaLzKe7O'/>
+        - 7.17P Explain how the balance between thermal expansion and gravity affects the life cycle of stars<span id='tFwbr29Ub'/>
+        - 7.18P Describe the evolution of stars with a mass larger than the Sun<span id='YRfR2UaJB'/>
+        - 7.19P Describe how methods of observing the Universe have changed over time including why some telescopes are located outside the Earth’s atmosphere<span id='M5fYQt_Tc'/>

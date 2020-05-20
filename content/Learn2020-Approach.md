@@ -1,0 +1,29 @@
+---
+title: "Learn2020 Approach"
+---
+
+- The bottom line is that we want to make high quality, forward-thinking education available, affordable and accessible on a global scale.<span id='6nwYyoic2'/>
+- Our Approach<span id='-dZOowM6r'/>
+    - 1. Our system is designed as a new learning ecosystem with 3 central components<span id='Z7ntNl78N'/>
+        - Teachers x Techniques x Technology - hence [[T3]]<span id='Bg44uEVYC'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FKCgaWpAHc5?alt=media&token=13652cc1-eb3a-4003-be97-7fde178e96b8)<span id='PiTe9Qh9M'/>
+        - Most schools focus on just one of these, sometimes two, but none I’m aware of, at the time of writing, attend to all 3.<span id='h6pdFKOda'/>
+    - 2. My experience in education has led me to conclude that the future is about skills, not knowledge, and the ability to learn new things fast is the currency of the future.<span id='Fm4w9HOPT'/>
+        - Of course, knowledge is important, but knowledge is kind of like the table-stakes to join the game. What’s going to be really helpful is the ability to apply advanced techniques of learning for the duration of students’ lives, to discern what to learn and then to learn it deeply and rapidly.<span id='o6oVPcQO_'/>
+        - Yes, we have excellent teachers, and we’re certainly going to use appropriate technology, but the SKILLS are the most important determinant of future success.<span id='Aw6JDy9eq'/>
+    - 3. The Learning Journey<span id='pUKz6TNEC'/>
+        - I use the concept of the learning journey to illustrate this.<span id='ppbSX_xYf'/>
+            - Most educational institutions recognise that students are at different starting points along the learning journey but they don’t usually pay much attention to the second dimension - which is the student’s learning velocity.<span id='l4RtzhR46'/>
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FyNfRvaziH-?alt=media&token=7bee9643-4616-4416-8077-5cd126b021bb)<span id='EYlsMUsPh'/>
+            - The idea is that through deliberately teaching advanced techniques of learning [[The CASSIDY Method]] we can customise students’ learning vehicles:<span id='Wf32Rrwxs'/>
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FJhDyl-Tbke?alt=media&token=5c3e34d5-73fc-425f-b055-3458d138b165)<span id='zfNgCU0fO'/>
+            - __They come riding a bike, they leave flying a plane.__<span id='O3tsMd_3L'/>
+    - 4. It’s the **techniques** stupid!<span id='MY2i-0c5r'/>
+        - I’ve also included some  of the cassidy method techniques - the collaboration impact on learning power. This diagram shows how if you design the structure well, learning scales with the size of the class.<span id='70PlitJYH'/>
+        - Collaborative Learning is geometric. There’s a ton of other specific learning techniques in the Cassidy Method - more can be seen here:<span id='cehuSNNTY'/>
+            - https://thecassidymethod.com/summer_work_book_2019.html<span id='DDc6X1Dl8'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FOsteSV1SaD?alt=media&token=5adff5e7-74a3-4634-8cef-8f213d8be9b1)<span id='wjxh8Sy4y'/>
+    - 5. The Technology component is also interesting.<span id='ZArgGFEIo'/>
+        - We’re using fNIRS (functional near infra-red spectroscopy) to measure, monitor and improve students’ attention, focus and concentration.<span id='-rmE_Mdr3'/>
+        - Within 18-36 months we plan to wrap this device into a VR delivery unit, but for now it exist as a separate headband that gives continuous feedback on the blood oxygenation levels in the speech areas of the pre-frontal cortex. (So it tells us when students are concentrating and we teach them gradually to improve their powers of course.<span id='_ULBrfPlo'/>
+    - [[RoadMap]] is here<span id='vmUvvobeg'/>

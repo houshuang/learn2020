@@ -1,0 +1,50 @@
+---
+title: "Episode 14: Friction & Viscous Forces"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='qhpvjGeZ7'/>
+- T - So in the last episode we talked at a pretty high level about the concepts of **force**s and Fields.<span id='yPIn_30f5'/>
+- H - Yes we did. Pretty invigorating stuff right?<span id='JPFJ2j8MQ'/>
+- T - Ha ha. Indeed. So, what’s up next?<span id='Cw1sZNc-T'/>
+- H- Next we want to be thinking about frictional and viscous **force**s.<span id='oyD17q7I6'/>
+- T- First off, what are they?<span id='OrsuTsCfc'/>
+- H- Frictional and viscous **force**s act to oppose motion. They’re the reason why Newton’s first law is so unbelievable to most people.<span id='6iDE1phVN'/>
+- T- Yeah it’s really hard to grasp that something will keep moving unless acted on by an external **force** because in everyday life, when we see something moving it always comes to a halt even though no **force**s SEEM to act on the body. Obviously we NOW know that there must be a **force** acting on the body, but it must be imperceptible to us.<span id='fSrkupvTy'/>
+- H - These invisible **force**s oppose the motion of the body and decelerate the object, and are responsible for the sound you hear when a chair is sliding across the floor.<span id='VqArVAWK1'/>
+- However, you don’t have to be moving to experience a frictional **force**. You know how if you stand on a hill you don’t just slide all the way to the bottom? Frictional **force**s between the soles of your shoes and the ground prevent you from doing so. Frictional **force**s always act against the direction in which motion is taking place, or would take place, if it could!<span id='x49F-ARna'/>
+- T- That doesn’t mean you won’t experience frictional **force**s if you are moving. In fact, you can never NOT experience frictional **force**s. They are absolutely everywhere.<span id='ssbANoXNI'/>
+- H- The maximum magnitude of a static (or stationary) frictional **force** is proportional to the contact or reaction **force** between the two things. The reaction **force** is normally, but not always, equal to the weight of a body on a surface. You have to be careful for the times when it isn’t. BUt you’ll be told all about those when necessary.<span id='gpfWqK9Sw'/>
+- T- Right but the information that the maximum frictional **force** is PROPORTIONAL to the reaction **force** isn’t really too helpful, what’s the constant of proportionality?<span id='raroZ8ICe'/>
+- H- The good news (at least for you guys) is that friction is such a vastly complicated thing that you’ll never be expected to calculate the constant of proportionality, it’ll always be given to you. It’s almost always experimentally determined and is usually a decimal between 0 and 1.<span id='zuYSxk6lW'/>
+- T- Remember that this number allows you to figure out the **maximum **frictional **force** available so the actual frictional **force** present might not be this number. This distinction is important.<span id='H7ZnxMiLA'/>
+- H- Let’s consider the simple example of you putting your shoe on the floor and pushing it along. You could take your shoe off right now and go along with the experiment as I talk or just take my word for what happens if you’d prefer. The shoe starts off not moving. The only two **force**s acting on the shoe are its weight and the reaction **force** which must be equal in magnitude otherwise the shoe would be accelerating through the floor (which I’m hoping it isn’t). There’s no **force** attempting to put the shoe into motion along the floor so there’s no frictional **force** acting on the shoe.<span id='nwj2E7O1d'/>
+- T - Yep, that makes sense.<span id='gaJN7q-Kx'/>
+- H - When you begin to push your shoe, it doesn’t start moving right away. This is because there is now a frictional **force** acting against the push you are making that is equal in magnitude to your push **force**. As you keep pushing harder the shoe keeps not doing anything until all of a sudden the shoe begins to move. At the point the shoe starts moving what’s happened is that the **force** you’re applying to the shoe is greater than the maximum frictional **force** that the shoe/floor combination could supply based on the reaction **force** due to the contact between the shoe and the floor (which is as large as the shoe’s weight).<span id='YjjG9-cnd'/>
+- T- If you increased the reaction **force** by putting something heavy in the shoe, you would have to push the shoe harder before it moved.<span id='8XI4nBtS9'/>
+- H - Exactly. So, frictional **force**s depend on a number of things, but in broad terms you can think of it like this:<span id='ahgHWiuNz'/>
+- The weight of the object and the nature of the surfaces in contact with one another, are the two factors that most influence the resistive **force** of friction.<span id='Di39aY1iv'/>
+- T - That makes sense. It’s easier to move things with little mass, when the surfaces in contact with each other are very smooth.<span id='p3m2ql_ni'/>
+- H - In fact that’s why liquids are usually used when you are trying to reduce frictional **force**s. Because if you can put a liquid between the two surfaces in contact with one another, you enable the surfaces to slide past one another with relative ease.<span id='DL47cb3wi'/>
+- T - Friction is actually really complicated and luckily we don’t have to get into too much depth for A Level. When solid surfaces meet, the atoms at the surface actually form temporary bonds when pressed into contact with one another. These are called cold ‘welds’ similar to ‘welding’ at high temperatures’, and in order for the surfaces to pass over each other, all these bonds have to be broken.<span id='NJtKr34fb'/>
+- H - Liquids placed between these contact surfaces prevent the surfaces from bonding to each other and so they can easily slide past one another.<span id='tl5a0ptUC'/>
+- T - In fact, that’s why ice-skates work so well to enable you to skate on ice with very little friction.<span id='HOP3noIKo'/>
+- H - Ice itself is actually not slippery!<span id='Zy58_GL9I'/>
+- T - Indeed. The reason that ice is slippery is that surface of the ice melts into water when you press on it.<span id='h5urxcHwg'/>
+- H - And ice skates have a very small surface area, which means that your weight is concentrated into a very small area, which causes a great pressure on the ice. This pressure causes the ice under the blade to melt into water, and it is this water that reduces the friction between the metal skate blade and the solid ice surface.<span id='gJyFyQ0Pk'/>
+- T - I love that this brings us nicely onto pressure!<span id='RyNFWAFAz'/>
+- H - Yes, a nice Radio 2 link there… :)<span id='-f6i-92O_'/>
+- T - Yes, so, how is pressure related to **force**? From the ice-skate example it would seem that it has something to do with area?<span id='-1MQ1_06l'/>
+- H - Precisely so. You don’t need anything more than that to calculate pressure, but maybe we should have a think about what pressure actually IS? What it relates to in everyday life that we can actually observe?<span id='rOPwO3d5W'/>
+- T - My favourite way of explaining pressure is to think of the ‘effect of a **force** on a surface’. Let’s imagine trying to cut into an orange with a spoon. It’s going to be hard work. Now consider trying to cut into an orange with a knife.<span id='PQuGqreNg'/>
+- H - Assuming that you apply the same **force** in each case, which situation would produce the greatest effect on the surface?<span id='IZtFPCLGX'/>
+- T - Of course the knife would. But why? What is the difference between the knife and the spoon that makes the effect of the **force** greater?<span id='D0HCrpLFo'/>
+- H - Well, most people would say that the knife is ‘sharper’ than the spoon. And that’s the everyday experience of pressure in action. The reason the knife is ‘sharper’ than the spoon is that the knife has a much thinner point of contact with the orange than the spoon.<span id='y3MUizK_D'/>
+- T - The same **force**, applied over a smaller contact area, creates a greater effect. It causes more damage.<span id='FWH7o7oGb'/>
+- H - Imagine pushing a thumbtack into a wall. You can apply the whole **force** of your thumb into a really small area - the tip of the thumbtack - and get a significant effect: The thumbtack goes into the wall.<span id='3-iKWNZ1n'/>
+- T - Another favourite of mine is to consider the reason why high-heel shoes are often banned from dancefloors. The surface area of the shoe is so small, that even ladies with modest weight, can damage the floor.<span id='1kHaE2d0g'/>
+- H - in summary, the pressure on a surface is simply the **force** on the surface, divided by the area of contact on the surface.<span id='sat41-_7W'/>
+- T - One thing to be really careful of is the units. It’s essential to make sure that your surface areas are calculated in SI units, so that the units of pressure, Newtons per metre squared, all work out.<span id='piMyz4VYW'/>
+- H - Now, pressure in liquids is a different case, and interesting as well, but we’ll leave that for the next episode. Probably the most important thing to start with in the next one is what happens when a **force** is applied an object.<span id='kqyYsaxsE'/>
+- T - Not only can a **force**, damage, deform or accelerate an object, but it can also cause an object to fall over. This will bring us to the principle of levers, something neat called mechanical advantage and the rather fancily-but-pretty-uselessly-named ‘principle of moments’.<span id='jxp3n6lrO'/>
+- H - Can’t wait!!!<span id='PQNUryT-y'/>
+- **Unlinked References**<span id='_zRDEWk85'/>

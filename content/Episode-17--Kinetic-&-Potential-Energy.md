@@ -1,0 +1,72 @@
+---
+title: "Episode 17: Kinetic & Potential Energy"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='Rrt92A2g7'/>
+- T - Right. So, in the last episode we introduced the idea of energy as the universe’s accounting system and now we’re going to have a look at why using energy is often a really neat way of solving problems.<span id='1Dlczb-I3'/>
+- H - We’ll then be looking at how to do problems using energy and in particular, problems that involve the changing of energy from one type into another.<span id='YdYJCBP-s'/>
+- T - OK, so we have a feel for what energy is now - why is it useful when solving [[Physics]] problems?<span id='HvSgykj9R'/>
+- H - It’s useful because the energy of a system has no memory.<span id='i4Pks9bqF'/>
+- T - I’m sorry, what????<span id='Aw75sA0QR'/>
+- H - Haha - I thought that would get your attention. I am just playing with words here, but what I mean is that the system doesn’t know or care how it got to be in the state it’s in, it just matters that it is now in that particular state.<span id='-Rsisgnvr'/>
+- T - go on…<span id='xWE7Y1UDv'/>
+- H - So, what we mean is that HOW the system changes between two configurations is irrelevant. All we need to know is the details of each configuration. The system can move any way it likes to get from one configuration to another, all that matters is the start point and the end point.<span id='7nT60TDyy'/>
+- T - OK, so a ball rolls down a hill and all we need to know is its starting position and its ending position. The energy difference between these two points is always the same, however long it takes to move between these points and whatever path it takes.<span id='MyV7eE1gU'/>
+- H - And this is really neat because it makes the calculations a lot easier. This aspect is called path independence and it is because energy itself is a scalar quantity, not a vector. Energy has no direction dependence. Let’s imagine you are climbing to the top of a mountain. It doesn’t matter which path you take, you will change your energy by the same amount. It might be that one path is steeper but shorter and another path is less steep but a lot longer.<span id='xNc-OcVpK'/>
+- H - Yep, and it’s useful because as long as we know the difference between the start position and the end position in terms of the most important factor when climbing a mountain - the height - the energy needed can be easily calculated as you’ll find out in a minute.<span id='YzCiCJ0jQ'/>
+- T - Of course, as always, it’s a little more complex than that simple explanation, but in general this ‘path independence’ of energy is really useful.<span id='VQ725XmO4'/>
+- H - OK, so let’s have a look at how we actually DO problems involving energy.<span id='DFM8LeKBq'/>
+- T - One tip is to keep constantly thinking about whether this energy is ‘stored’ energy or energy on the move.<span id='1Eb7QsXR0'/>
+- H - If it’s energy on the move, i.e. kinetic energy, it ends up being pretty simple. The equation we use to express the kinetic energy of a moving object is just half m v squared, where m is the mass of the object, and v is the object’s **Velocity**.<span id='_Ni13kJJf'/>
+- T - Note one really neat thing about kinetic energy calculations - since the **Velocity** is squared, any positive or negative signs will disappear and this is why kinetic energy is a scalar quantity and not a vector. This is another reason why calculations involving energy can be easier than you’d think..<span id='rM3u3h53n'/>
+- H - Indeed. As long as we know the mass and the speed of the object, we can always calculate its kinetic energy. It doesn’t matter if the object’s direction is changing. This is especially useful when looking at motion in a circle, where the speed is constant but the **Velocity** is changing all the time, since the object is changing __direction__ constantly.<span id='TeHnQTMym'/>
+- T - So, let’s recap: The kinetic energy of a moving object can always be given by this formula:<span id='YbJ3vXX8K'/>
+- KE = ½ mv^2 (pronounced - KE equals half m v squared)<span id='3OSCkl-77'/>
+- The unit of energy is then kg x m per second squared, but that’s a bit messy so we use a new unit, the joule to make it less of a mouthful. Joule.<span id='ioS-3X0WJ'/>
+- And it was named after an English scientist with a french name called James Prescott Joule.<span id='5r7KW7TNC'/>
+- H - Now, the potential energy of an object which is not itself in any kind of tension (i.e. it isn’t being squashed, or deformed, or stressed in any way) depends on its relation to other things around it.<span id='TMQQldubF'/>
+- T - hmmm. That sounds interesting. What do you mean exactly?<span id='HCK1CODzT'/>
+- H - Well, let’s consider a ball at the top of a hill again. Because of Earth’s gravitational field, the ball will be at a lower energy state, the closer it gets to Earth’s surface. We won’t consider what happens inside Earth just yet. (Note that we use ‘Earth’ and not ‘the Earth’, to formally associate our planet with the other planets of the solar system. We refer to the other planets as Mars, Jupiter, Saturn etc. and not the Mars, the Jupiter and the Saturn! We do this whenever we remember, not all the time, because like most people, we have grown up with the normal use of ‘the Earth’ in everyday language.)<span id='E1a9qtXBN'/>
+- T - And we know all things if free to move, will tend towards the lowest energy state.<span id='n4lqaG_k1'/>
+- H - Indeed we OBSERVE this. We don’t know it, since we don’t ever truly KNOW anything in science, but the facts of experiment indicate that this phenomenon seems to hold pretty true.<span id='oQAbKAkaV'/>
+- So, the potential energy that the ball has, as a result of its position relative to Earth’s surface, is what we’re interested in finding out.<span id='FftaHo3CC'/>
+- T - OK, so how do we do this? Do we plug in a formula, or can we get a feel for how we might calculate this potential energy?<span id='6dGTtUbRd'/>
+- H - Well, the best way to think of this is by an example. Let’s consider a football of mass 1 kg, which is initially sitting on a flat football field on the surface of Earth. The football then gets located to a new position which is 5 m above the surface of Earth. (We don’t care HOW this happened just for the moment). We might be interested in knowing how much energy was needed to move it to its new position.<span id='oe9h9VBuF'/>
+- T - So, what do we need to think of?<span id='QOEHCu7af'/>
+- H - Well, we actually go back to **force**s for a minute, to prove the general case, and then we can forget about **force**s from then on.<span id='kPLWyVpXI'/>
+- T - Rats. I thought we were done with **force**s!<span id='nGiDDymdd'/>
+- H - Only for a minute! Don’t panic. :) Let’s keep the example as simple as possible. In order to move the football against the **force** of gravity, we have to give the ball some energy. The relationship between **force** and energy is no more complicated than what you will have encountered at GCSE level.<span id='fdJTocO2S'/>
+- H - The energy needed to move an object a distance ‘s’ against the direction of a **force** ‘F’ is given by the product of the **force** times the distance. F x s.<span id='Uj1BUQxu_'/>
+- T - yes, often this would be called **work done**, and the **work done** against a **force** was equal to the **force** x distance moved in the direction of the **force**.<span id='8w6J4deLN'/>
+- H - Now, the **force** on the ball that you have to work against is the gravitational pull on the ball from Earth and that is given by mg where m is the mass of the ball in kilograms and g is the gravitational field strength in newtons per kilogram.<span id='BfZ0puQoj'/>
+- T - The distance moved against the gravitational pull from Earth is simply the distance moved away from the centre of Earth, which is just the 5m straight ‘up’ that the ball has travelled. This is usually denoted by ‘h’, the height of the ball.<span id='Qg_pQzsrQ'/>
+- H - An important point to note is that this approach uses an approximation that the gravitational field is constant in this region, and it only works when you are close to the surface of Earth. Technically, the **force** due to the ball’s position decreases as you move further away from Earth’s surface. You will get to know more about this later on in the series.<span id='AVoUPkLPy'/>
+- H - So, the energy needed to move the ball through a distance of ‘h’ metres is just mgh.<span id='H4L4Lpntk'/>
+- H - The ball’s mass ‘m’ in kg, times the gravitational field strength ‘g’ in newtons per kilogram, times the height that the ball has moved.<span id='veuKtVBoS'/>
+- T - We are only interested in the difference in potential energy of the ball in the two scenarios and so we often just talk of the change in gravitational potential energy as being just mgh, where h is the CHANGE in height of the ball between start and finish position.<span id='F_XrNVcnP'/>
+- So, we have a formula for the change in Potential Energy of an object when it changes position in a gravitational field, and we have a formula for the Kinetic Energy of an object when moving with a certain speed. Let’s see how they are connected.<span id='OIlfLzdrs'/>
+- H - The golden rule in energy conservation is that total energy is always conserved and so the total energy of the system is always the same.<span id='RnyRndjjF'/>
+- T - So, we COUNT the energy in the initial state and we use that to find the sum of the energies in the final state.<span id='oq4f_wVrD'/>
+- H - The energy of the system is most neatly expressed by saying that since the Total Energy is constant, the total energy is the sum of the kinetic energy and the potential energy of the system.<span id='IslteEDqo'/>
+- T - So, let’s have a look at our football scenario again. In order to get the ball to move 5m away from Earth’s gravitational pull, we had to give it some energy. Let’s now consider that 5m is as high as the ball gets. How fast did we need to kick the ball to get it that high? Ignoring air resistance for now.<span id='egQ-vyKCI'/>
+- H - So, we sum the potential and kinetic energy at the beginning and we sum the potential and kinetic energy when the ball is at its highest point and we say that they must be equal.<span id='wKPtrKOfS'/>
+- T - great stuff. So initially, what energy did the ball have?<span id='cLvio1j2z'/>
+- H - Well the ball was kicked at a certain **Velocity**, v, and so its kinetic energy will be half m v squared.<span id='R3ohFwWNr'/>
+- T - Does it have any potential energy?<span id='5jfUk378s'/>
+- H - Well we are only interested in the change in potential energy when the ball changes its position in Earth’s gravitational field. So, we can consider it to have NO potential energy at the start, and then SOME potential energy when it is 5m off the ground.<span id='qRMifHHlm'/>
+- T - Great, so the total energy of the ball initially is half m v squared, which is 0.5 x 1 kg x v squared<span id='Yfhd7x9VV'/>
+- H - Precisely. And we are trying to work out what v must have been in order to get the ball to go to a height of 5 metres.<span id='lCBwi1LLx'/>
+- T - so, let’s look at the total energy when the ball is 5 metres above the ground, its highest position.<span id='e3y8zbOjU'/>
+- H - Now, one thing we notice, is that the reason the ball doesn’t go any higher is because its **Velocity** at that point has reached zero. Just for a tiny fraction of time, the ball slows down to a stop and changes direction, and comes back down to the surface of Earth.<span id='6j2fAqNEh'/>
+- T - Indeed, so at the highest point, the ball has no speed and so it must therefore have no kinetic energy.<span id='c2LCWpXzm'/>
+- H - yes, and the potential energy it has relative to its starting position is given by mgh, or 1kg times 9.81 newtons per kilogram times 5 metres = 50 joules<span id='96ihC1yCQ'/>
+- T - And so, we can just equate the two energies to each other and say that the KE at the start is equal to the PE at the ball’s highest point.<span id='v3x2hdZIJ'/>
+- H - Exactly. This gives us this equation: Half m v squared equals mgh<span id='zI6ZVLd_L'/>
+- H - Notice there is an m on both sides so we can cancel these out. Rearranging the equation will give us v squared equals 2gh, which therefore means that v equals the square root of 2gh, which is the square root of 2 times 9.81 newtons per kilogram times 5 metres, which is 9.90 metres per second.<span id='FTi23U4q1'/>
+- T - That’s about 10 metres per second, which seems about right for kicking a ball to a height of 5 metres, ignoring air resistance of course.<span id='ne5lXPHyk'/>
+- H - The only other thing you have to worry about sometimes, is when the energies DON’T equal each other, you haven’t been able to ignore resistive **force**s such as friction and drag. These **force**s are often ignored but they clearly will have an impact.<span id='Z60t_GPPf'/>
+- T - The good thing is that all you have to remember is that whenever you can’t consider these **force**s as negligible, some energy will be lost from the system. This lost energy is the difference between the energy you get and the energy you expected to get from your calculations.<span id='jYSoqntTd'/>
+- H - You can think of the system as having converted some of its energy to heat and sound, which are just additional forms of kinetic energy, but outside the system we are concerning ourselves with.<span id='oTp5B1o2h'/>
+- T - That makes sense and that about wraps it up for this episode. See you in the next one.<span id='diru5mkAe'/>
+- H - Great stuff.<span id='XsCw9HzAH'/>
+- **Unlinked References**<span id='FsD3n3QI7'/>

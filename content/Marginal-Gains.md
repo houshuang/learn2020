@@ -1,0 +1,31 @@
+---
+title: "Marginal Gains"
+---
+
+- The First Dogma: Marginal Gains<span id='Ce154srqT'/>
+- The first dogma is the concept of Marginal Gains, which is simply the idea that it's easier to get 1% better at 100 things, than 100% better at one thing.<span id='7cR7YDW6C'/>
+- The Greatest Team On Earth?<span id='L3D6eENYF'/>
+- My favourite modern example of this principle is the astonishing success of the British Olympic Cycling team over the last ten years.<span id='vtx9ApYYa'/>
+- Although I admit I could be biased, there’s a compelling argument for rating the British Cycling team as the greatest current sporting outfit on the planet, perhaps ever.<span id='3s9IoS-Hy'/>
+- Their gold-medal tally in the Olympic Games of 2008 and 2012 was not only higher than any other individual country, it was higher than the medal haul from all other countries in the world **combined**.<span id='gHtqFYYfm'/>
+- If they'd been a nation, they'd have come 10th in the overall Olympic medals table, one place above the Aussies.<span id='uPXFbhumx'/>
+- That’s more than dominant, it's ridiculous.<span id='GKDhwRXjd'/>
+- Dave Brailsford, the chief architect of the team’s rise to supremacy over the last 10 years puts it all down to the marginal gains approach.<span id='neLvYnOc8'/>
+- Applied to cycling, the idea is simply that you break down the task of getting your bike to go fast into many small pieces, and focus on improving each one of these by a small percentage. These gains are all marginal in themselves, but they multiply together to create a compounding overall improvement.<span id='U3vfKiA87'/>
+- So, what Braislford did was find a whole bunch of things that ’might’ make a difference, and work on improving each one by the tiniest amount.<span id='q83nTSBBG'/>
+- One of the most peculiar was the idea of training the team to wash their hands properly! The idea being that washing hands properly would lead to a lower incidence of sickness which consequently would mean fewer disruptions to the team's training programme. Another was for the team to always take their own pillow when traveling, to improve the quality of sleep, a tip apparently inspired by the Royal Ballet. (The UK’s national ballet organisation.)<span id='t8jVIHP9G'/>
+- This approach worked so well that British cycling entered a team for the Tour de France, possibly the most gruelling cycling event in the world, for the first time in 2010, with the view to win within 5 years.<span id='sZgc5Y_LY'/>
+- They achieved their goal by 2012, three years ahead of schedule.<span id='BtMs2tkEn'/>
+- More than that, they not only won it in 2012 with Bradley Wiggins, but their next best, Chris Froome, was second placed rider overall, and went on to win it in his own right in 2013.<span id='hFznIBqcq'/>
+- So, from nowhere to total domination in 2 years. That should not happen in the world of international sport. Especially a team sport that depends on physical peak endurance like cycling. It doesn't make any sense until you start appreciating the power of the marginal gains concept.<span id='67f650q2z'/>
+- Clearly, the approach worked astonishingly well for the British cycling team, but can the concept of Marginal Gains be applied to other areas in life?<span id='nmoICv_-C'/>
+- How about Rugby? England won the world cup for the first time ever in 2003 and this is what the coach Clive Woodward said about his team's success:<span id='5vgRhMFCW'/>
+- “Winning the Rugby world cup was not about doing one thing 100% better, but about doing 100 things 1% better”<span id='Uez224JSn'/>
+- - Sir Clive Woodward<span id='0FrZi8oba'/>
+- Hmmm...<span id='tdqaYa2g8'/>
+- I’m sure I could find many more instances in sport and in business but let's stop there and just think about the issue applying Reason- Ability's golden question...<span id='pWijAcNGK'/>
+- Does it SEEM reasonable?<span id='iNakOA8MC'/>
+- Let's propose that, through applying the reasonable algorithms, we could reasonably expect to get 10% better at each component of mastery in a programme. The compounding effect over a total of 13 aspects will generate an astonishing 345% increase in performance.<span id='Ge9eF2esB'/>
+- Of course, numbers can be a misleading construct when applied to areas like health and eating, (we'll be getting deep into this when I later talk about the fallacy of calories and the paucity of science in that institutionalised measure of health, the BMI) but it should nonetheless be fairly easy to conclude that an approach based on mastering one or two areas is not only likely to be harder, but it's also probably going to have less of an impact on performance overall.<span id='dfu9LBoqG'/>
+- So, that's it. The first dogma of The CASSIDY Method: Marginal Gains. I hope it’s got you thinking.<span id='7h1dIabRg'/>
+- Update c. 2019 - The British Team continued their dominance in the 2016 Rio Olympics, where they secured 6 out of 10 available gold medals in track cycling, despite changes to the events designed to prevent their continued runaway success.<span id='dTYCcsPdJ'/>

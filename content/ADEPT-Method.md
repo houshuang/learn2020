@@ -1,0 +1,62 @@
+---
+title: "ADEPT Method"
+---
+
+- The ADEPT Method was created by [[Kalid Azad]] and it is explained in full here:<span id='4ATIjN5ju'/>
+    - https://betterexplained.com/articles/adept-method/<span id='mQJrM_hwT'/>
+- This is a summary of the process:<span id='6gWSjePXG'/>
+    - Make explanations ADEPT:<span id='Uf9wYcNZn'/>
+    - Analogy<span id='2pOZPMlFe'/>
+    - Diagram<span id='d0HjeT5SU'/>
+    - Example<span id='XZGhB0Kma'/>
+    - Plain-English description<span id='XyX3SRZqT'/>
+    - Technical description.<span id='bBA8LhSss'/>
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2F57Xpuux4Ou.png?alt=media&token=3f5b5cb4-974a-47b2-894e-3a9b563ef462)<span id='ElR8VYatU'/>
+- Analogy: What Else Is It Like?<span id='-KdDx_IlI'/>
+    - Most new concepts are variations, extensions, or combinations of what we already know. So start there!<span id='AWGChc_jG'/>
+    - In our decades of life, we’ve encountered thousands of objects and experiences. Surely __one__ of them is vaguely similar to this new topic and can be the starting point.<span id='pt-RL6cQM'/>
+    - Here’s an example: Imaginary numbers. Most lessons introduce them in a void, simply saying “negative numbers can have square roots too.”<span id='RWTzYpvf3'/>
+    - Argh. How about this:<span id='SeuUQnOrq'/>
+        - Negative numbers were distrusted until the 1700s: How could you have __less__ than nothing?<span id='byZt3b8M2'/>
+        - We overcame this by realizing numbers could exist on a number line, allowing us to move forward or backward from zero.<span id='pRwhGp6ze'/>
+        - Imaginary numbers express the idea that we can move upwards and downwards, or __rotate__ around the number line.<span id='TTGEe_83e'/>
+    - Instead of just going East/West, we can go North/South too – or even spin around in a circle. Neat!<span id='ZfG_9xslq'/>
+    - Analogies are fuzzy, not 100% accurate, and yet astoundingly useful. They’re a raft to get across the river, and leave behind once you’ve crossed.<span id='vveHxnvH6'/>
+- Diagram: Engage That Half Of Your Brain<span id='aKBjxxy0P'/>
+    - We often think diagrams are a crutch if you aren’t macho enough to directly interpret the symbols. Guess what? Academic progress on imaginary numbers took off only __after__ the diagrams were made!<span id='hHJRfORyE'/>
+    - Favor the easiest-to-absorb explanation, whether that comes from text, diagram, or interpretative dance. From there, we can work to untangle the symbols.<span id='AUrHgSlP-'/>
+    - So, here’s a visualization:<span id='cn0IHFkP6'/>
+    - ![imaginary numbers](https://betterexplained.com/wp-content/uploads/complex/imaginary_rotation.png)<span id='9zIWNEkMx'/>
+    - Imaginary numbers let us rotate around the number line, not just move side-to-side.<span id='69olt8lOr'/>
+    - Starting to get a visceral sense for what they can __do__, right?<span id='UvptDq2RF'/>
+    - Half our brain is dedicated to vision processing, so let’s use it. (And hey, maybe for this topic, twirling around in an interpretative dance would help.)<span id='1O6Zt8wIU'/>
+- Example: Let Me Experience The Idea<span id='QiAQKYUof'/>
+    - Oh, now’s our chance to hit the student with the fancy terminology, right?<span id='66caT_eRH'/>
+    - Nope. Don’t tell someone the way things are: let them experience it. (How fun is hearing about the great dinner I had last night? The movie you didn’t get to see?)<span id='ePwki4U-6'/>
+    - But that’s what we do for math. “Someone smarter than you thought this through, found out all the cool connections, and labeled the pieces. Memorize what they discovered.”<span id='8nHOUttzX'/>
+    - That’s no fun: let people make progress themselves. Using the rotation analogy, what happens after 4 turns?<span id='ylJXepO0B'/>
+    - ![imaginary number rotation](https://betterexplained.com/wp-content/uploads/complex/imaginary_cycle.png)<span id='kbf3CNY2I'/>
+    - How about 2 turns? 4 turns clockwise?<span id='uKL7j4IhP'/>
+- Plain-English Description: Use Your Own Words<span id='NxTx6PSgI'/>
+    - If you genuinely experienced an idea, you should be excited to describe it:<span id='nq0IzvD9t'/>
+        - Imaginary numbers seem to point North, and we can get to them with a single clockwise turn.<span id='5RXaHWA20'/>
+        - Oh! I guess they can point South too, by turning the other way.<span id='ld07LyppV'/>
+        - 4 turns gets us pointing in the positive direction again<span id='6eo4tq-T_'/>
+        - It seems like two turns points us backwards<span id='Oa9dWu96V'/>
+    - These are all correct conclusions, just not yet written in the language of math. But you can still reason in plain English!<span id='vvydVQcLY'/>
+- Technical Description: Learn The Formalities<span id='QX7lJdqz-'/>
+    - The final step is to convert our personal understanding to the formal notation. It’s like sharing a song you’ve made up: you can hum it to yourself, but need sheet music for other people to use.<span id='zzazaO176'/>
+    - Math is the sheet music we’ve agreed upon to share ideas. So, here’s the technical terminology:<span id='FlitR_XvB'/>
+        - We say __i__ (lowercase) is 1.0 in the imaginary dimension<span id='WGq1c_E9V'/>
+        - Multiplying by __i__ is a 90-degree counter-clockwise turn, to face “up” ([here’s why](https://betterexplained.com/articles/understanding-why-complex-multiplication-works/)). Multiplying by __-i__ points us South<span id='5X0WreL1K'/>
+        - It’s true that starting at 1.0 and taking 4 turns puts us at our starting point:<span id='fLaFI9Glo'/>
+    - ![\displaystyle{1 * i * i * i * i = 1 }](https://betterexplained.com/wp-content/plugins/wp-latexrender/pictures/a386490b9d5d1014e75f160a843b33a6.png)<span id='LsDewNgGs'/>
+    - And two turns points us negative:<span id='hOG37RHTk'/>
+    - ![\displaystyle{1 * i * i = -1 }](https://betterexplained.com/wp-content/plugins/wp-latexrender/pictures/8f91d62b9612905f1f55285cf00bd8bd.png)<span id='hotw7FDhF'/>
+    - which simplifies to:<span id='NUwt78wf5'/>
+    - ![\displaystyle{i^2 = -1}](https://betterexplained.com/wp-content/plugins/wp-latexrender/pictures/7629fbf1f6929348712245765c35727a.png)<span id='WGDaoJ3CC'/>
+    - so<span id='9xwFck-m0'/>
+    - ![\displaystyle{i = \sqrt{-1}}](https://betterexplained.com/wp-content/plugins/wp-latexrender/pictures/3ad8756afde3a13f7c5082c3b7514ecf.png)<span id='VoRXUn24S'/>
+    - In other words, __i__ is “halfway” to -1. (Square roots find the halfway point when using multiplication.)<span id='Kuvh_v0xj'/>
+    - Starting to get a feel for it? Just spitting out “i is the square root of -1” isn’t helpful. It’s not explaining, it’s __telling__. Nothing was experienced, nothing was internalized.<span id='XeLoALnKa'/>
+    - Give people the chance to make an idea their own.<span id='rc-CZtY8U'/>

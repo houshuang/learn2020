@@ -1,0 +1,85 @@
+---
+title: "Mastercasts"
+---
+
+- WHAT is a Mastercast?<span id='wY5ZOY4qC'/>
+    - A Mastercast is a cross between a Masterclass and a Podcast.<span id='RFnTL6Izk'/>
+    - It's a conversation between a subject #expert and a #host about an academic subject at high-school level. (Typically for ages 13-19)<span id='JTj_dfz1y'/>
+    - It is broadcast live and involves screen sharing the expert's screen and allowing the audience to hear the conversation between both parties<span id='xwDBDhOhY'/>
+- WHY do we do them?<span id='23fgVYsas'/>
+    - 2020 is a new era for online learning precipitated by the global coronavirus outbreak.<span id='oTowil4i_'/>
+    - Most online learning is a poor substitute for face to face learning experiences<span id='cUVsR5BLw'/>
+    - Our intention was to create a remote learning experience that was better than in-person learning. (see Basecamp and Remote Work https://basecamp.com/books/remote)<span id='QcZMZmEP5'/>
+    - We concluded that it's the Energy and Interactivity of a live class that makes it work well, hence the idea of putting 2 teachers together to have a conversation about the topic. One is the subject expert, the other is the facilitator or host.<span id='249STIDMR'/>
+    - The Podcast analogy extends to the idea of getting the world's best subject experts to teach any topic, wherever they are in the world.<span id='-Z3BHNk2q'/>
+    - Also the vibe of a the Podcast medium is what makes it work well. It feels friendly and welcoming and intimate.<span id='q0-aGyEgx'/>
+    - It takes the idea of Khan Academy and makes it personal. Makes it interactive. Makes it intimate. Makes it real. Better than real.<span id='j1QdRDsjt'/>
+    - How many schools can get the world's best teachers into their real classrooms, for an in-depth conversation, through which they share their deep insights into subject success gleaned from years of teaching at the top level?<span id='BAEoLJ-ao'/>
+    - The combination of a subject expert and a host gives it energy, enthusiasm, and also makes it a lot more enjoyable to deliver and to consume.<span id='bBILPPJRr'/>
+- HOW does a Mastercast work?<span id='ZUxEXNp3L'/>
+    - Overview<span id='3f97P9950'/>
+        - #Mastercasts are designed to be self-contained entities, but they can also be part of a programme.<span id='jkaGaCEz8'/>
+        - Typically they are a deep treatment of single [[Atomic notes]]<span id='HAZ8Bkhcq'/>
+        - They are usually 1.5 hours in length, broken up into 3 #pomodoro sessions of 25 mins each. However a 2x #pom format is also popular - and also easier to schedule<span id='s8bjea3Vz'/>
+        - The #expert is not just an expert in subject knowledge but it's likely they been teaching the subject at this level for a considerable period.<span id='LB88FCFJJ'/>
+        - The #host is also likely to have some experience in the subject, at the very least they have studied the subject at the specific level and have a clear idea of how the subject fits in to the bigger picture.<span id='RQfHLe5sa'/>
+        - The host's job is to adopt the mindset of the learner - always working at a meta-level, ensuring that the session has the appropriate balance between depth and accessibility. The #host acts as a #bridge between the subject #expert and the #audience<span id='W6Y_Dk172'/>
+    - Preparation<span id='mY168ZwSF'/>
+        - Topic content is created by #expert<span id='-z82qeqlx'/>
+            - Topic Notes compiled - sent to #team as text<span id='Sik6dk2Ur'/>
+            - Topic past paper questions compiled - sent to #team as PDFs<span id='qgyPqIN2m'/>
+            - Topic resources identified - sent to #team as text<span id='AOQiZVmUF'/>
+        - Topic content is prepared by #team<span id='uI7gf4uXV'/>
+            - #expert to upload notes and links to #Mastercasts node on Trello boards<span id='9zlDlAy4h'/>
+            - #team to turn pdf past paper questions into screen share pdfs<span id='xIWIJgLyO'/>
+            - #team to upload screen share pdfs to #Mastercasts node on Trello board<span id='kxo6XfmHQ'/>
+    - Execution<span id='AddgYgePE'/>
+        - #host and #expert join Zoom webinar and spend 5 mins making sure the tech side is working, the materials are all in place and the content is well understood by both parties<span id='yfnaRBans'/>
+        - #host does the introduction, sets up the overview and keeps the #Mastercasts on track<span id='AGaFu8nMd'/>
+        - subject #expert delivers the main learning points<span id='pETJkyE93'/>
+        - #Structure of the Mastercast<span id='q7J2EjVKk'/>
+            - Each #Mastercasts is 1.5 hours, divided into 3x poms (#pomodoro) sessions<span id='hNaMdFWkM'/>
+            - We take learners through an adaptation of the 5 step UFAST journey from the 5 Day #[[The Learning Sprint]]<span id='7E7ZV43Rx'/>
+            - Pom 1 Structure<span id='v7-7FX-_U'/>
+                - U = UNPACK the UNCERTAINTY<span id='0GC_I7xZw'/>
+                    - What’s the big idea?<span id='95CSUfG26'/>
+                    - Why is it important?<span id='z-G2mrPA2'/>
+                    - What’s our starting point?<span id='T5utYxKem'/>
+                    - What’s the context for this topic?<span id='FhrryOob5'/>
+                    - What new things do we need to introduce and define?<span id='nUqIbcFvX'/>
+                    - What do we need to know, understand and be able to do?<span id='jwhQq2WWL'/>
+                    - What common misconceptions are there in this topic?<span id='uE9hLF8Vi'/>
+                    - How might we be tested on this?<span id='7LBVVc4gv'/>
+                    - What are the typical mistakes to avoid, pitfalls to look out for in testing?<span id='u_JngBEr7'/>
+                - F = FIGURE out the FACTS<span id='Kc12qpTSH'/>
+                    - Facts are the vocabulary of understanding<span id='dICj_oZQx'/>
+                    - Terms<span id='3ZMPuRvei'/>
+                    - Symbols<span id='93HRoT0YX'/>
+                    - Context<span id='RNP9AxJ8m'/>
+                    - History<span id='uCykoLNk8'/>
+                    - Experiments/Research/Discoveries<span id='hoNFBLD8-'/>
+                    - Definitions<span id='RdkxwUm4n'/>
+                    - Logic<span id='Be-fvg5G3'/>
+                    - Laws<span id='YtL74zBpE'/>
+                    - Equations<span id='0uQ3CT812'/>
+                    - Problems<span id='ksQiX50lU'/>
+            - Pom 2 Structure<span id='hel-hLUVs'/>
+                - A = Assimilate the ANALOGIES<span id='VaoBnDzta'/>
+                    - What is this topic a bit like?<span id='_u8YMSS8z'/>
+                    - Move learners from the known to the unknown<span id='RGSEOEEmZ'/>
+                - S = Soak up the STRATEGIES<span id='MUS6TPMpV'/>
+                    - Exposition of the procedures involved in answering questions and solving problems in this particular topic<span id='yHrh7U8N9'/>
+                    - Tips, tricks, key insights<span id='heAP3-3FL'/>
+                    - Possibly do 2-3 fully worked solutions<span id='7Rue-pq41'/>
+                - **NB: It's helpful for the #host to be always working at the #meta-level always trying to zoom out for a balcony view, to keep the bridge open between subject expert and learner audience**<span id='0lJa7ZDsj'/>
+            - Pom 3 Structure<span id='IauYZqm33'/>
+                - T = TESTS for TRUTH - A rapid talk-through of as many past paper questions as possible to test learners understanding and practice the whole thing<span id='58t8oRkd9'/>
+                    - Multiple Choice questions can be used with Live Polls the following way<span id='dJd8pb3A-'/>
+                        - Present the MC question on the screen<span id='e7r_jmz9D'/>
+                        - Launch a poll with the A, B, C, D answers<span id='ICstzwGZR'/>
+                        - Invite participants to vote for the correct answer<span id='iDOFXecEg'/>
+                        - Dive deep into the question according to the correctness of the audience's response<span id='P490fZUVF'/>
+                    - Important not to waste time writing out full answers - just keywords, key insights<span id='lRTOogwR_'/>
+                - RECAP the Topic by Subject Expert<span id='x1nKXi4Xr'/>
+                - RECAP by Host, who pulls out a summary of the key insights from the learner's perspective<span id='hN1nyao_N'/>
+            - #host wraps up #Mastercasts and gives learners next actions to consider, including links to the subject node on #Trello<span id='qC0zV6atD'/>

@@ -1,0 +1,59 @@
+---
+title: "Episode 2: Quantities, Measurement & Units"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='nKKz-Zf8e'/>
+- **Introduction to the topic as stated in the syllabus:**<span id='HnbVTiP9V'/>
+- __T - The **Measurement** and recording of quantities is central to the whole of [[Physics]]. The skills of estimating a physical quantity and having a feeling for which quantities are reasonable and which are unreasonable are very useful for any physicist.__<span id='ihHE9Ko8x'/>
+- __H - This topic introduces the SI system of [[Units]], which provides a universal framework of **Measurement** that is common to all scientists internationally. Students should be aware of the nature of a physical **Measurement**, in terms of a magnitude and a unit. They should have experience of making and recording **Measurement**s in the laboratory.__<span id='eDLggkFJk'/>
+- T - Here is the roadmap for how we’re covering all the topics in this podcast series. Not all topics will fit the roadmap exactly, but the questions serve as signposts as we journey through each topic.<span id='j0t_rfofb'/>
+- Here’s the roadmap:<span id='BBoN-2EYs'/>
+- (H and T alternate through these questions.)<span id='Jxh6yLGJE'/>
+- **What’s the big idea?**<span id='fHLSbs_PU'/>
+- **Why is it important?**<span id='SKOPpzBdQ'/>
+- **What’s our starting point?**<span id='XSBZZxblS'/>
+- **What new things do we need to introduce and define?**<span id='13v-dB-kO'/>
+- **What do we need to know, understand and be able to do?**<span id='2bom5sn5F'/>
+- **How might we be tested on this?**<span id='7eOXg_Q80'/>
+- **What common misconceptions are there in this topic?**<span id='vi8fu-tO1'/>
+- **What are the typical mistakes to avoid, pitfalls to look out for in this topic?**<span id='oaglkSigA'/>
+- T - So let’s get cracking…<span id='zfz7i_6Hj'/>
+- **T - First of all, what’s the big idea?**<span id='TQ8IXTvNw'/>
+- What do we mean by Physical Quantities and [[Units]]?<span id='9iIQNyxXZ'/>
+- H- A physical quantity is just an aspect of an object that can be measured like its shape, colour, size or resistance to being moved. A unit is some standardised (well known) amount of physical quantity that ensures that anyone can interpret your reading of an object without having to do any measuring themselves.<span id='Yr_j5Inbg'/>
+- **T - Why is it important?**<span id='exTA3zkRp'/>
+- H- Well in the last podcast we talked about how Physicists observe, suggest and test. By observing what we really meant was measuring. Observation without **Measurement** has no useful meaning and without **Measurement** it’s impossible to make these future predictions that we’ve been talking about.<span id='2kqANhcOl'/>
+- T- It’s all to do with everyone understanding what’s going on.<span id='Su7kC7o_W'/>
+- I’m guessing that at some point you’ll probably have been in a car and will have seen a sign saying that your destination is 10 kilometres away. That information is only meaningful because we know, or at least have a feeling for how far a kilometre is.<span id='55rPQwA7q'/>
+- H- We’ll talk more about prefixes such as kilo or k later, for now it’s okay to just know that the kilo part of the word kilometre is telling you that we have one thousand metres.<span id='2udZnSy2S'/>
+- T-  The metre isn’t a real thing. We didn’t dig one out of the ground a couple hundred years ago, we humans decided how long a metre is. We defined it. It’s meaningful because anyone who knows about metres can use that information to understand the distance and figure stuff out like how long the journey will take them.<span id='pvBrx5HhS'/>
+- H - OK, so in this example metres were the [[Units]] we were using. They were the well known amount of length that allowed you to interpret your reading of the distance you measured without having to drive the distance yourself.<span id='mvHt4u-7e'/>
+- T- Back to the idea of making observations. When we look at something and try to record some ‘aspect’ of it, why do we use numbers?<span id='NvkNx9RAy'/>
+- H- Numbers are what we mean by quantities. And numbers just make it easier to compare things.<span id='lSEtP8Hmj'/>
+- There are two types of ways we can describe things - we can use words: the aeroplane is moving really quickly...<span id='qcwP66MNM'/>
+- And we can use numbers: the aeroplane is moving at 300 metres per second.<span id='yAzZZE_61'/>
+- T - The latter of these approaches is more helpful when we are making comparisons with other **Measurement**s because we can easily compare aeroplanes moving at different numbers of metres per second. It’s not so easy to compare movement when we use words like ‘really quickly.’<span id='5dkC0byND'/>
+- H- When we use words we call it a qualitative description or **Measurement**.<span id='vnBboUibK'/>
+- When we use numbers we call it a quantitative **Measurement**.<span id='Wupry7UJj'/>
+- T - So, can you give us an example relating to [[Physics]]?<span id='HrDl1iODT'/>
+- H- Okay so you could understand this difference by imagining you’re on your way to London in a train. You notice that the landscape moves past you faster in the train than it does when you ride a bike but that doesn’t help you figure out when you’ll get to London.<span id='TQbr6xh9t'/>
+- It’s not that there’s anything wrong with noticing that the train is faster than the bike, but that qualitative observation doesn’t allow you to make any predictions really, other than ‘the train will get to london faster than the bike would.’<span id='gj3SvmLlL'/>
+- T- What must we understand about this idea**?**<span id='x5PVqhPua'/>
+- H- A good way of thinking about this use of numbers in **Measurement** is thinking about the entire reading as a multiplication. You’ll have seen in GCSE mathematics that adjacent letters in an equation represents a multiplication. Well that’s exactly what’s going on here.<span id='X3pLvYDsP'/>
+- T- When you see written down that something is 10 kilometres long you can read that as 10 times 1 kilometre, as in this length is 10 lots of 1 kilometre long.<span id='7yTSs55Vn'/>
+- H- You can even break that down further. As we noticed above, the kilo part of the word kilometer means one thousand so really when we say 10 kilometres we mean 10 lots of one thousand lots of metres.<span id='Gviq7HWHv'/>
+- T- A lot of Physicists would prefer to just write this in standard form, as 10 to the 4 metres or 10 thousand metres. It’s all just multiplication.<span id='IP6cg_vsT'/>
+- H- Every **Measurement** comes as a number and a unit. The number is sometimes referred to as the magnitude of the reading in proper science speak. The number tells you how many lots or multiples of the unit we have. It’s just basic **Maths** really.<span id='Fs8V7BChj'/>
+- **T - OK, so what’s our starting point? What do we already know that’s relevant?**<span id='T65Kg6pIF'/>
+- H - We already know about some [[Units]] from GCSE and everyday life. I bet you’ve heard of metres, miles, kilograms, feet, stone, seconds, pounds, ounces and many more [[Units]].<span id='RDjaO6lbo'/>
+- **T- What new things do we need to introduce and define?**<span id='LxiH3QWxo'/>
+- H- Well metres, kilograms and seconds are called SI [[Units]], which stands for System International and it’s a well established, universally recognised set of [[Units]] that are in common usage across the entire scientific community.<span id='ExlkUNqFB'/>
+- SI [[Units]] are sometimes referred to as the metric system because they are most closely associated to the length the metre. The French came up with this system and one of the reasons it became so popular was because it is effectively a decimal system. This means that SI [[Units]] are very easy to manipulate and in particular it makes calculations easy to perform. These [[Units]] are the best defined and the easiest to use. https://m.youtube.com/watch?v=r7x-RGfd0Yk<span id='xj5fvKO_r'/>
+- T- Miles, feet, stone and pounds are examples of imperials [[Units]] which were used by the British Empire and more recently by the First Order. Today’s scientists steer clear of these as they’re extremely difficult to manipulate. They’re still used in the US, especially in engineering disciplines, but nobody else really uses them. You might like to check out Matt Parker’s guide to the imperial system if you’re wondering just how tortuous this system was.<span id='L3Ac3WYrF'/>
+- ( https://www.youtube.com/watch?v=r7x-RGfd0Yk )<span id='txITVpLMR'/>
+- H- The 3 key S.I [[Units]] are: kilograms for mass; metres for length; and seconds for time. Mass, length and time are such important properties because very many characteristics of an object are combinations of these three things only.<span id='JzPZka8lu'/>
+- T - For example, speed is how much length (or distance) you travel in a certain time. That’s why its [[Units]] are metres per second.<span id='TwO8qGBX3'/>
+- H -  And the area of a rectangle is a length multiplied by a length. That’s why area is measured in metres squared, you could read that as metres multiplied by metres.<span id='ZEwQp2SJC'/>
+- T - OK, so that’s the introduction done. We want to keep this podcast fairly short, so we’ll pick this up in the next one and start talking about what we need to know, understand and be able to do…<span id='pTZxz-R-D'/>
+- H - great stuff. See you in the next one.<span id='Uz-kwdJ2B'/>
+- END.<span id='jgcELDFiF'/>

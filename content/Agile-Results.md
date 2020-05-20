@@ -1,0 +1,40 @@
+---
+title: "Agile Results"
+---
+
+- Source: http://jdmeier.com/agile-results-on-a-page/<span id='Z5LW9pW26'/>
+- Agile Results on a Page<span id='uZHxnwqHL'/>
+- By [JD Meier](http://jdmeier.com/author/jd-meier/) January 16, 2019<span id='OduUaxYd7'/>
+- [![image](http://jdmeier.com/wp-content/uploads/2019/01/image_thumb-141.png)](http://jdmeier.com/wp-content/uploads/2019/01/image-193.png)<span id='yVoISpUB_'/>
+- Agile Results is a simple system for getting meaningful results.<span id='xncW1meUg'/>
+- It’s a systematic way to achieve both short- and long-term results.  It works for all aspects of your life, from work to fun. The key to achieving results in our ever-changing world is learning and responding to change.<span id='CqMmmwjtu'/>
+- Traditional methods of planning and goal setting are heavy and static, and they just aren’t working anymore. Agile Results provides just enough planning to get you going, but makes it easy to change your course as needed.<span id='FggtLhN4f'/>
+- With Agile Results, you are in control. You shape your days and weeks so you can flourish and amplify your impact. It’s a way to make daily progress, follow YOUR path of fulfillment, and spend your time and energy on the most meaningful things.<span id='zBsrmHYmF'/>
+- Three Wins<span id='ijBWAJ4sj'/>
+- Think in threes to focus your time, energy, and your actions. Identify three wins that you want to achieve:<span id='WbKP825uj'/>
+    - Three wins for the day.<span id='MObZMqGIt'/>
+    - Three wins for the week.<span id='rtkzQNw5a'/>
+    - Three wins for the month.<span id='qtcXaRE4P'/>
+    - Three wins for the quarter.<span id='T0v38CnjD'/>
+    - Three wins for the year.<span id='MK8-d8UA6'/>
+- Bonus – Three wins for your decade, and three wins for your life.<span id='E253MniJH'/>
+- These wins act as your tests for success and they focus your tasks, while making it a game. Focusing on three wins also helps you reframe problems into challenges. At the same time, it helps you identify, acknowledge, and appreciate your personal victories.<span id='AFEESRkLc'/>
+- Monday Vision, Daily Wins, Friday Reflection<span id='ASjY2XvX_'/>
+- This is a simple way to get started with Agile Results:<span id='9qG8HL7lD'/>
+    - On Mondays, identify three wins that you want for the week. Ask yourself, “If this were Friday, what are three things I would want to have achieved or accomplished?”<span id='COwbskNre'/>
+    - Each day, identify three wins that you want for the day. Ask yourself, “What are the three wins I want for today?” Say them out loud. Write them down on paper. Saying them out loud simplifies them, and writing them down on paper helps them stick.<span id='NlQrTjVpH'/>
+    - On Fridays, identify three things going well, and three things to improve. Make a recurring appointment with yourself on Fridays. In your appointment, ask yourself, “What are three things going well?.” Follow up with, “What are three things I want to improve?” Identity three things you can do to carry the good forward, or change your approach so that you can make next week, a better experience.<span id='9WnV1mHKd'/>
+- It’s all about driving a better experience, each day, and each week. By identifying your wins for the week, you give yourself the ability to zoom out from your day. By identifying your three wins for the day, you get to zoom in to where the action is. By thinking in terms of wins, you jump ahead to the end-in-mind. By focusing on what’s going well each week, you learn your personal success patterns, and what to keep doing, or what to do more of. By focusing on three things to improve, you improve your personal performance. This personal process helps you continuously learn and improve day over day, week over week, and your little wins add up for exponential results.<span id='lG5jp_ATK'/>
+- See [[Agile Results Key Concepts]]<span id='hO0LMIn7H'/>
+- See [[Agile Results 12 Core Practices]]<span id='L8pP2krxf'/>
+- Test it For Yourself<span id='5aoJd50CI'/>
+- The simplest way to see if Agile Results is right for you, is to take it for a test drive. Here is a simple way to test-drive Agile Results:<span id='xTwDoNebk'/>
+    - Write down three wins that you want for today. Congratulations – you’re doing Agile Results! The preferred approach is to you a sticky note pad, but anything works – even a napkin.<span id='BpkRdzxoo'/>
+    - Test-drive the Monday Vision, Daily Wins, Friday Reflection pattern. On Monday, identify three wins you want for the week. Each day, identify three wins you want for the day. On Friday, identify three things going well, and three things to improve.<span id='gFC_njWz4'/>
+    - Test-drive a 30 day improvement sprint. Use a practice from Agile Results, to learn Agile Results. Decide that this month will be about changing your game, changing your results, and changing your experience in work and life. Do something small each day for 30 days to build momentum. Each day is a new chance. At a minimum, each day, you can identify your three wins that you want. For 30 days of little lessons, check out [30 Days of Getting Results](http://gettingresults.com/30-days-of-getting-results/) at [Getting Results.com](http://gettingresults.com/).<span id='I8md2_7aw'/>
+- Additional Resources<span id='FQ-mvZ62J'/>
+    - [30 Days of Getting Results](http://gettingresults.com/30-days-of-getting-results/)<span id='s6wJCh-34'/>
+    - [Getting Results.com](http://gettingresults.com/)<span id='EFfmSNjE0'/>
+    - [Case Studies and Testimonials](http://gettingresults.com/testimonials/)<span id='EMcPHf1SL'/>
+    - [Resources for Agile Results](http://gettingresults.com/resources/)<span id='xz1ubuu7C'/>
+    - [Getting Results the Agile Way](http://gettingresults.com/) (the Book)<span id='r-_FEompp'/>

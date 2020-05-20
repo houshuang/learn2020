@@ -1,0 +1,23 @@
+---
+title: "Teach to Six"
+---
+
+- This is the key framework for communicating their learning and a valuable technique from the [[Talk for Learning]] philosophy.<span id='jD3yidcIj'/>
+- Teach to Six is a structure that makes it really easy to see how well you understand a topic/concept/idea.<span id='BT5CpKryy'/>
+- The idea comes from the quote (possibly wrongly) attributed to Einstein<span id='dmIzYsjyI'/>
+    - __If you can't explain it to a six year old then you don't understand it properly yourself__<span id='PxFNf6Yuk'/>
+- SIX acts as a useful mnemonic for the process.<span id='bvPWHuNRH'/>
+- **S - Simple Language.**<span id='2lAUC_yPX'/>
+    - Students are forbidden from using any words in their explanations that would be outside the vocabulary of a typical six year old.<span id='Oe3EiMnLd'/>
+    - This reinforces Feynman’s and Einstein’s approaches and avoids students masking their lack of deep understanding of a topic by using technical language.<span id='5J3l-y7rj'/>
+    - A key question to ask is this:<span id='a3i8IjDe6'/>
+    - Does the introduction of this word add any understanding? Or is it just a definition?<span id='gbYGLI27a'/>
+- **I - It's a bit like...**<span id='UEEjd46_T'/>
+    - This is the concept of Analogy. It's far better to say what things are like than to introduce them 'in vacuo'. This is what all learners do anyway whenever you are introducing them to a new concept.<span id='Vrm3-F2A9'/>
+    - The mind is constantly trying to make sense of the new information in relation to all the information it currently has.<span id='QV3R-Td7x'/>
+    - A deliberate use of analogy can ease this transition, especially if many different analogies are used.<span id='fHheY4m3S'/>
+- **X - eXamples**<span id='VGfZErSiv'/>
+    - It's a bit of a fudge, but examples are so important.<span id='DLlbDi4QG'/>
+    - Newton famously said 'Examples are of more use than precepts when learning the sciences.'<span id='rKZrEcjPw'/>
+    - It's critical to remind the explainer that examples are key to embed this learning into the learner's set of well-understood concepts.<span id='iQWphthFO'/>
+    - So, the Teach to Six Framework provides a systematic way of making sure all students become expert explainers.<span id='PcGbeacKC'/>

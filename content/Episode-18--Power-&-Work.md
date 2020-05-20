@@ -1,0 +1,66 @@
+---
+title: "Episode 18: Power & Work"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='EVsLD_aor'/>
+- T - Right. So, in the last episode we covered how to solve problems by using the fact that the total energy of a system is constant.<span id='GAqaArJml'/>
+- In this episode we’re going to have a look at a slightly different concept, and this is the rate at which energy is converted from one form to another. We have a special name for this quantity and that name is ‘power’.<span id='6isu6iTsW'/>
+- H - Yep, the big idea is that the power of a system is the rate at which it is converting energy from one form to another.<span id='ksj8xqae7'/>
+- T - We can think of it as the amount of energy converted divided by the time taken for the conversion.<span id='ilr0UA0KG'/>
+- H - From the last episode we talked about a very useful way of calculating the energy in terms of the **work done** by a field, or a **force**.<span id='zU44SuCMb'/>
+- T - Yes, working against the **force** of gravity, and moving a ball away from Earth’s surface by a distance of 5 metres involved doing a certain amount of work which we can calculate using the formula: **work done** equals the **force** times the distance moved against the **force**, in the direction of the **force**. We used this fact to work out the energy that had to be given to the ball in order to ‘do’ this work.<span id='BnGTThXMC'/>
+- T - Continuing from that concept we usually think of the Power of a system as the **work done** by the system divided by the time taken by the system to do that work<span id='y3jnw06be'/>
+- H - Yes. Power = **work done** divided by Time. It has the SI units of Joules per second but we often use another unit, the Watt. This is the ‘W’ you may have seen on a light-bulb. When a light-bulb has something like 20W printed on it, it means that it converts electrical power to heat and light at a rate of 20 watts, or 20 joules per second.<span id='7GsAZYTm4'/>
+- T- You’re probably already familiar with a few examples of power from some of the circuit theory you learnt at GCSE. Do you remember the equation P = IV ? We see here that electrical power is given by the product of current and voltage.<span id='W1XbgjeeM'/>
+- H- There are also other instances where power is a useful concept to consider. Do you remember back when Aristotle was banging on about his views on motion? He thought that you needed a constant **force** in order to keep objects in motion.<span id='Hj7JaKJ-V'/>
+- T- Yeah we know this to be wrong now but we can see why he thought this. In everyday life, we observe that the speed (kinetic energy) of objects decrease over time unless a **force** is supplied to keep the object into motion. Today we understand the slowing of the object to be due to ‘invisible’ resistive **force**s such as air drag or friction.<span id='y7Jsm_5X-'/>
+- H- Let’s say we have a car driving down the motorway at a constant speed. We know that there are resistive **force**s acting on the car which dissipate its kinetic energy because if the engine was switched off then the car would come to a halt.<span id='gCQ_Ah0Oc'/>
+- T- If we put our hand out the window we can even feel such **force**s so we definitely know they are there. If you’ve ever tried putting your hand out the window when you’re driving on a very fast road, you certainly feel the effect of air resistance.<span id='aYEOGm0iz'/>
+- H - Yes, this type of resistance to motion by the air, was one of the first indications to early scientists that air itself was not empty space.<span id='L2QAm0ctP'/>
+- T - Yes, that and seeing trees blowing in the wind of course.<span id='6Tn63lQrC'/>
+- H- Anyway, let’s get back to the car.<span id='-Hpd5aH8N'/>
+- If the car is remaining at the same speed it hence has the same kinetic energy, so there must be an influx of energy keeping the kinetic energy constant. The engine is supplying energy at a constant rate to keep the car in a uniform state of motion. The engine has a power associated with it.<span id='CpaXR7PYK'/>
+- T- But how do we calculate this power?<span id='y0Hns6wY7'/>
+- H- Well we know that energy is **force** times distance. Power is the rate of change of energy. So power becomes **force**s times distance divided by time.<span id='4pzUZU3i3'/>
+- T- But we know what distance divided by time is, that gives us speed. So the power of an object is its speed multiplied by the **force** acting on the object.<span id='XRgam8czT'/>
+- H- Right but it’s not quite as simple as that. We must make sure that the **force** is resolved to be in the same direction as the **Velocity** i.e we must take the dot product of the **force** with **Velocity**.<span id='Yuu9KZERn'/>
+- T- Don’t worry if you’re not doing A levels maths and don’t know what a dot product is, you’ll never be explicitly asked to do a dot product in an exam, resolving components is just fine.<span id='kXCs1_k8w'/>
+- H- Jumping to electronics for a second, we should all remember the equation **work done** = charge times voltage.<span id='e_ywvFCTN'/>
+- H- Intuitively this makes sense. If you are moving a lot of charges you would expect the **work done** to increase, and if you have a big energy difference to move through, you would also expect the **work done** to increase.<span id='DuEAcFczN'/>
+- T - So, it makes sense that the **work done** when you move charges through an electric field is proportional to both the size of the charge and the size of the field.<span id='CuG8-jGka'/>
+- H - Again, using the fact that power is energy divided by time we now get power is voltage times charge divided by time.<span id='5syQWMWmD'/>
+- T- But we know that charge divided by time is current, (current is the rate of flow of charge) so we recover the previously mentioned formula -  power is current times time or P = IV.<span id='3jsB8_WFR'/>
+- H- In your exams you may get questions giving energy changes in a set time or a body moving against a **force** at some **Velocity** and figuring out the power in these cases is pretty simple. You use the equations we just mentioned.<span id='5hGfHYVji'/>
+- T- You may also be given the size of a ‘power’ that acts over certain time intervals and be asked to figure out the energy transfer. In this case the energy transferred is just the power multiplied by the time.<span id='xFOUFRrei'/>
+- H - Yep, you just think about it like this: If this device is converting energy at a power of 60 watts, that just means that it converts 60 joules of energy every second. You just multiply the power by the total number of seconds and you will have the total energy converted.<span id='4llXGLIaT'/>
+- H- These questions aren’t too difficult, the only parts that might catch you out are if for moving bodies the **Velocity** and the **force** pushing the body are not in the same direction, or when the units are not in alignment. Sometimes they give you minutes or hours, rather than seconds etc.<span id='z6M5PJXSK'/>
+- T- Efficiency is another topic you might be asked about. What do questions mean when they ask you to calculate efficiencies?<span id='WI5ogIPgy'/>
+- H- The efficiency of a system is simply the useful energy you get out of an object compared with the total energy you put into an object. For example if you put 100 joules of energy into a lightbulb and 10 of those joules are converted into visible light then the efficiency of the light bulb is 10 divided by 100 so is 0.1 or 10 percent.<span id='edpqNUSgc'/>
+- T- That may seem like an unrealistically bad answer but for halogen lights their efficiencies are actually that terrible. Only one tenth of the energy you put into the light bulb is used for what you want the bulb to do. The rest of the energy is mostly converted into thermal energy which is why you should always wait a while after turning of a light before you change it- they get really hot!<span id='wbKszSc3V'/>
+- H - And this is also why LED lights are becoming increasingly popular. They convert nearly all of their electrical energy into light, and so they waste hardly any as heat.<span id='rQuTH9qY1'/>
+- T - in practical terms, it means they don’t get anything like as hot as you might expect for the brightness they generate.<span id='bkAEO_Ocj'/>
+- H- You can see how efficiencies are extremely useful in everyday life, companies are always trying to optimise the efficiencies of their products and machines because it saves energy which means money is saved in the long run.<span id='r7aLLHC-d'/>
+- T- In your exam it’s important to remember that although energy is conserved in any process, sometimes we say that energy is ‘lost’ anyway. What we mean by this is that not all of the input energy is converted into the form that we would like (as with the light bulb).<span id='DKRhh5oep'/>
+- H- When a question asks us for an efficiency, often the hardest part is figuring out what energy produced is actually the ‘useful’ energy. The rest is pretty easy maths.<span id='Kw_2_lUM3'/>
+- T - One type of question could involve something like a hydroelectric power station. The question might get you to calculate the rate at which gravitational potential energy is converted to kinetic energy when water falls through a certain height.<span id='5OL0irbrL'/>
+- The kinetic energy of the water is then converted to the kinetic energy of the turbines, which through rotating coils of wire in magnetic fields, generate electric currents.<span id='S4DB1YgtR'/>
+- Your job is to work out the efficiency of the whole system.<span id='6do2JfG1V'/>
+- H - Yep, an example could be this:<span id='WFVyeZI-t'/>
+- Water falls through a height of 50 metres at a rate of 200 kg per second. If the electricity is generated at a PD of 20,000 volts and a current of 4.1 amps, what is the efficiency of the station?<span id='nsBJ-k8MV'/>
+- First we need to calculate the power at the start:<span id='4piycoKqW'/>
+- Power = **work done** divided by Time taken<span id='6fgadBdVd'/>
+- **work done** = **force** x Distance moved in direction of **force**<span id='YFam378wW'/>
+- The relevant **force** is gravity, which is 9.81 newtons per kg and so the **force** on 200 kg of water is 1962 newtons.<span id='J7zTV3lTZ'/>
+- The water falls through 50 metres, so this is the distance and the **work done** is just 1962 newtons times 50 metres, which is equal to 98,100 joules.<span id='qlKfmgWhl'/>
+- This happens every second (since the water falls at a rate of 200 kg per second), and so this means that 98,100 joules are converted every second at the start of the journey.<span id='lwHH-CmKM'/>
+- T - At the end of the journey, we are producing electrical energy at a rate given by the formula Power = Voltage times Current (P = IV)<span id='VXk302bak'/>
+- And so the output power is 20,000 volts times 4.1 amps, which equals 82,000 watts.<span id='KrJNeRqRc'/>
+- The efficiency is given by the output power divided by the input power times 100.<span id='hSj4QlCpE'/>
+- So, the efficiency of this system is the output 82,000 watts divided by the input 98,100 watts times 100, which is 83.59 percent.<span id='2zyeFjiDo'/>
+- H - Now, remember that it makes no sense to give your answer to 4 significant figures if your starting data wasn’t that precise, so you would be quite ok in rounding this up to 84%.<span id='CyXmqPXyy'/>
+- T- Right so that’s all we’ve got time for today.<span id='pBSQwNl2r'/>
+- H - We’ve covered work, energy and power and we hope you’ve got a deeper understanding of the concepts involved as well as the procedural knowledge to take on a few problems.<span id='rggMume13'/>
+- T - As always, the only way to get good at this stuff is to practice, so let’s all go and have a try at a few questions and see how you get on.<span id='eWw5kDY34'/>
+- H - And we’ll be back with the next topic, which is circular motion. See you then<span id='60uNkKzp4'/>
+- T - Bye for now.<span id='t1-h5fzr-'/>
+- **Unlinked References**<span id='h4DnEuQS8'/>

@@ -1,0 +1,27 @@
+---
+title: "Progressive summarisation"
+---
+
+- What is it<span id='iqxLpeEBS'/>
+    - It's a method of summarising notes at repeated intervals, getting increasingly concise on each pass as you distil the essence of the content<span id='FQGY0c1nW'/>
+- Why is it useful?<span id='KLNlYfxbN'/>
+    - It's a way to get a deeper understanding of content over time<span id='zNz6Eieb_'/>
+- How does it work?<span id='aW0W2hRDr'/>
+    - There are many ways to do it, but the idea is that you start with a lot of information in an extended format (like a book) and you end up with a single view of the most important/interesting/relevant information for your purposes (like a diagram, a sketch, a paragraph, a sentence, a meme, a quotable phrase, an action statement)<span id='TO9YjoWs4'/>
+- Examples of a **Progressive summarisation** journey for Chemistry<span id='H3nZ41X0j'/>
+- Textbook<span id='8SWUuObNs'/>
+- Extended Notes e.g. PMT Tutor  - 5 sections, 40 PDFs<span id='NYohl1kif'/>
+- Condensed Notes: e.g. ZNotes - 1 PDF, 20 pages<span id='ZJFdkeZXB'/>
+- [[subject map]]example![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FcG0PWyqObQ.jpeg?alt=media&token=4e06a586-5d51-463c-82c6-dae12e4e6c52)<span id='Am8JkHPsS'/> - 1 page<span id='aT9I-hYet'/>
+- More thoughts<span id='0nSm7vnc0'/>
+    - Neil's Noodlemaps<span id='akrcBqx83'/>
+        - source https://commonplace.doubleloop.net/20200311214806-progressive_summarisation<span id='C4_v4K2SS'/>
+    - A nice approach by Jethro<span id='uNmCVjTSv'/>
+        - source https://braindump.jethro.dev/zettels/progressive_summarization/<span id='U42xOtvx_'/>
+        - Progressive Summarization<span id='POUiMboL3'/>
+            - The idea of progressive summarization is to create notes such that their purpose is comprehensible in the future.<span id='uovb_d4eQ'/>
+            - **Layer 1** When you encounter something interesting, capture it<span id='gvNSj4hBa'/>
+            - **Layer 2** Bold the most interesting parts<span id='SKE429Xua'/>
+            - **Layer 3** Highlight the most interesting bolded sections<span id='pXUWDeIgR'/>
+            - **Layer 4** Summarize the bolded portions and the note in your own words<span id='PQmRohGrB'/>
+            - **Layer 5** Turn your notes into something new: a tweet, a blog post, even a book<span id='3kAy-W48n'/>

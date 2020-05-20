@@ -1,0 +1,38 @@
+---
+title: "Thoughts on arrangements for Subject Experts"
+---
+
+- Here's my thinking so far on how to be able to recruit world class subject experts **April 15th, 2020**<span id='ljyJTHmM1'/>
+    - Perspectives about the importance of teachers/teaching<span id='1l4E4e2UH'/>
+        - subject experts should ideally be able to make $10k per month through just teaching, with no administrative roles<span id='AyFeJU_0P'/>
+        - content creators should be able to make $10k+ per month through publishing their resources<span id='_pTc_2q_X'/>
+    - How might we attract the world's best teacher/creators to come and join us?<span id='NtP1txmFJ'/>
+        - What’s in it for them?<span id='sv4iMQlZk'/>
+            - monthly retainer/basic guaranteed income<span id='ApEnARoWU'/>
+            - top pay per timebox: e.g. Mastercast/seminar/workshop event, day/week/month/year etc.<span id='RuFFoOXNI'/>
+            - royalty income through publishing<span id='iKcYguAeW'/>
+            - long-term incentive in business success: bonus scheme, profit share, ownership share (dividends)<span id='X0f8Djdun'/>
+            - flexible working conditions: combination of online/offline<span id='3JJ0rixHM'/>
+            - likely to support long term career strategy<span id='aLYGRkNte'/>
+            - meaningful<span id='JE0h7QzFo'/>
+            - fun<span id='DsZIolzPm'/>
+            - top living conditions: apartment, lifestyle etc.<span id='-otc47udo'/>
+        - What must be in it for the business model?<span id='6an0wCFoY'/>
+            - regenerative<span id='ZyGVv1vjE'/>
+            - scalable<span id='VTl7Xs5ko'/>
+            - fun<span id='zIa7KMcgs'/>
+            - becomes the infrastructure for building future physical schools around<span id='Fb9krnURS'/>
+            - works in and beyond China<span id='MWnl1jxLM'/>
+        - Opportunity for significant returns on time investment for teachers<span id='3iWC1dcUZ'/>
+    - Considerations<span id='DydgkfJJj'/>
+        - What can we NOT break?<span id='tzTOb7ICy'/>
+            - The [[T3]] model<span id='Gcf8jS0Oi'/>
+            - Security for teachers<span id='ThSbhYVUq'/>
+        - What CAN we break?<span id='ZxeX8kLfi'/>
+            - The need for Physical schools<span id='8RcOIjx0M'/>
+            - Tying teachers to specific schools<span id='HsMNr16HF'/>
+            - Tying teachers to specific locations<span id='iW_rZfcJu'/>
+            - Annual contracts<span id='dcTnWMrWi'/>
+            - The curriculum we cover<span id='Q8ShiXMuD'/>
+            - Ages we teach<span id='TpnKEz3Gb'/>
+            - Delivery structures/timings etc.<span id='czlCIbfr6'/>

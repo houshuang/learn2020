@@ -1,0 +1,29 @@
+---
+title: "Subject Expert"
+---
+
+- The person who handles the subject-specific components of the sprint<span id='inq4fi7qf'/>
+- The subject expert works closely with the [[Sprint Master]] to ensure that the subject-specific objectives are clearly established<span id='6FMsoTH_J'/>
+- MUST<span id='46nFqT86b'/>
+    - be outstanding at subject exposition<span id='eQj5iycyP'/>
+    - have extensive experience in delivering the subject at the sprint level<span id='GRbr9eB-z'/>
+    - understand the mechanics of the sprint<span id='Mk4f_IKKR'/>
+    - be sympathetic to the sprint's skills objectives<span id='3hKHE7vTF'/>
+    - be present live at minimum for the following events<span id='5UsjZ4-Ue'/>
+        - Day 1 [[UNPACK the UNCERTAINTY]] for **Ask The Experts**<span id='Mrr7ICBMh'/>
+        - Day 4 [[SOAK UP the STRATEGIES]] all day<span id='KUs-hhlz5'/>
+        - Day 5 [[TEST for TRUTH]] during the [[Live Action Solving]]<span id='-haSxlinc'/>
+    - be responsible for all subject resources<span id='fBJxuW4Hv'/>
+    - be available on live chat for the duration of the week<span id='Svy6S3iBL'/>
+    - generate the materials for the pre/post tests<span id='d8UsbRzm3'/>
+    - establishing an immediate feedback testing system, e.g. computer/online/OCR etc.<span id='eltNXAaYF'/>
+- SHOULD<span id='gw4Yt531g'/>
+    - have good energy<span id='etZg98OAe'/>
+    - be an experienced teacher/leader<span id='47Ktz7DmJ'/>
+    - be available live conversation for at least part of each day<span id='o_Yoksmvx'/>
+- COULD<span id='FFYS7_Bn3'/>
+    - be involved for the duration of the Sprint<span id='VOmSdDCrh'/>
+    - be remote<span id='nkbVfzAOj'/>
+    - be in a different timezone<span id='5gpb5fZ47'/>
+- WON'T<span id='IR9ef7Mzb'/>
+    - need to be present for the whole sprint<span id='2x5fVavBJ'/>

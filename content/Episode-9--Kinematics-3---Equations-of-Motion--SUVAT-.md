@@ -1,0 +1,86 @@
+---
+title: "Episode 9: Kinematics 3 - Equations of Motion ([[SUVAT]])"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='WGM3EzcMx'/>
+- __(This episode continues from Kinematics - Part 2)__<span id='3UjoAWUFn'/>
+- **The #SUVAT equations.**<span id='a7NrcWy28'/>
+- The #SUVAT equations are so called because #SUVAT is a word made up from all the symbols we use to represent the quantities in kinematics:<span id='5Sky1BlEB'/>
+- s stands for **Displacement** (from the Latin ‘Spatium’ meaning distance or space)<span id='wbo854RtK'/>
+- u stands for starting **Velocity**, usually called initial **Velocity**<span id='Tk-SWj87k'/>
+- v stands for final **Velocity**<span id='t0XHYVgR8'/>
+- a stands for **Acceleration**<span id='A__go-jGE'/>
+- t stands for time<span id='WmXBWB_g6'/>
+- T - How do we derive the #SUVAT equations?<span id='LKcSfEmXI'/>
+- H - well, in order to derive equations we must have a starting point. Something that we **define. **<span id='PuDc7INdk'/>
+- T - and it’s good practice as physicists to define as few things as possible and to let everything else follow from the minimum number of definitions. Physicists are always trying to reduce things to the simplest possible case.<span id='GMFKJSHKr'/>
+- T - Is it time for a joke?<span id='SkrQU7MDo'/>
+- H - Yes, I think it is.<span id='V78tGTSg5'/>
+- T - There is this farmer who is having problems with his chickens:<span id='bYLRt-i-L'/>
+- For no apparent reason, the chickens are getting increasingly sick and he doesn't know what is wrong with them. After trying all conventional means, he calls a biologist, a chemist, and a physicist to see if they can figure out what is wrong. So the biologist looks at the chickens, examines them a bit, and says he has no clue what could be wrong with them. Then the chemist takes some tests and makes some **Measurement**s, but he can't come to any conclusions either. So the physicist tries. He stands there and looks at the chickens for a long time without touching them or anything. Then all of a sudden he starts scribbling furiously in a notebook. Finally, after several gruesome calculations, he exclaims: 'I've got it! I've got the solution. But it only works for perfectly spherical chickens, of uniform density, in a vacuum.'<span id='mGJvo0x_E'/>
+- H - Haha that’s great banter, it really is. The joke highlights the fact that in order to get answers we need to make **approximations**. We make assumptions that make the problems easier to solve.<span id='2HXm9bioX'/>
+- It's a bit of a fudge, but it’s what we do as physicists:<span id='GjSb2TK7E'/>
+- We solve simpler problems that are nearly the same as the original, much more complicated one.<span id='FXq5K7dwn'/>
+- The neat thing is that these approximations allow us to do calculations which give useful results. So, it’s kind of like cheating, because it’s not correct, but it works.<span id='hr2pkHOnB'/>
+- T - That basically sums up all of [[Physics]] btw - it’s not actually correct, but it works. As physicists we’re not interested in whether something is ‘right’ or not, we are interested in whether or not it is ‘helpful’ in terms of being able to make predictions that turn out to agree with experimental results.<span id='tMKoFtb4B'/>
+- H - OK, so back to the **SUVAT** equations… The minimum starting point is the introduction of the concept of **Acceleration**.<span id='cJ3_h0bZK'/>
+- T - as we mentioned in the previous episode, the **Acceleration** of an object is a measure of how quickly its **Velocity** is changing.<span id='oe-DCpNoH'/>
+- Its formal definition is as follows:<span id='xkXyZR2jG'/>
+- The **Acceleration** of an object is equal to the change in **Velocity** of the object divided by the time taken for this change.<span id='vjvDbZBwi'/>
+- Writing it as an equation it reads like this:<span id='CupmeK_-i'/>
+- **Acceleration** equals change in **Velocity** divided by time<span id='N8liHJ8Ho'/>
+- In symbols we can write the change in **Velocity** as the final **Velocity**, v minus the initial **Velocity**, u: Change in **Velocity** = (v - u)<span id='bzoUon94d'/>
+- This then gives us an algebraic equation for the **Acceleration** which is a = (v - u)/t’<span id='bOMlgPvyx'/>
+- From this definition, we can work out all the equations of motion that we need. The idea of having lots of equations already written out is simply that it saves time.<span id='9nOVNeW1v'/>
+- When we do questions on equations of motion, we write down all the **SUVAT** equations and we then look at whatever information we have in our particular scenario and select whichever equation looks like it is closest to the data we have.<span id='VB65FLWbp'/>
+- For example if we know the **Displacement**, the time and the final **Velocity**, we would use the second equation to work out the initial **Velocity**.<span id='HdPca0jzU'/>
+- We need to be able to rearrange equations of course.<span id='SV_5IPqFP'/>
+- Let’s do a problem. Imagine a rocket is accelerating at 20 metres per second per second. (in other words in every second it is increasing its **Velocity** by 20 metres per second)<span id='etkFCreZF'/>
+- How fast will it be going in 30 seconds if it is currently travelling at 200 metres per second?<span id='C8Jy76KEZ'/>
+- The first thing we do is write down everything we know.<span id='kot2Asux9'/>
+- We know the **Acceleration** is 20 metres per second per second > a = 20 m/s/s<span id='5fwjh9amU'/>
+- We know the initial **Velocity** is 200 metres per second > u = 200 m/s<span id='y5sxd3_KC'/>
+- We know that it will be accelerating for a time of 30 seconds > t = 30 s<span id='JrnAVK4q-'/>
+- So, we would use the equation a = (v - u)/t since we already have a, u and t and we need to find v<span id='js-nvatLn'/>
+- We need to rearrange the equation so that it will tell us what v is going to be. We call this ‘making v the subject of the equation’<span id='8bSgUese3'/>
+- So, let’s do that then:<span id='FFY4caCwo'/>
+- a = (v - u)/t can be written as at = (v - u)<span id='vS4Kf0F8k'/>
+- Which can then be written as v = at + u<span id='fUxdfPA7B'/>
+- And so v = 20 m/s/s x 20 s + 200 m/s = (400 m/s + 200 m/s) = 600 m/s<span id='STR72gOSO'/>
+- Note that we keep the units next to the numbers when we do the calculations. This is called quantity algebra and it really helps us understand what we are doing in a calculation rather than just using the numbers.<span id='cOU0exAdX'/>
+- The most useful set of **SUVAT** equations is the following:<span id='ZFVYfEo8g'/>
+- ![](https://lh5.googleusercontent.com/ZwVLf66hkc-JhBekxxdYtzB_rHcj9U7dXQYstgd1POFzJVWhRSwjFoCCQw2cuCxv7rBS3v6VBoB0_mt7MnesQkdNU9mlGZz5rco3LtM1jThcx1sAP8NAZL-iSwmZ7dGfTD06sHx0)<span id='jsajrzVjT'/>
+- The final **Velocity** is equal to the initial **Velocity** plus the **Acceleration** times the time<span id='LufluZRtm'/>
+- ![](https://lh3.googleusercontent.com/uH1naUo_YEVOwnBYjtkJGt1HBNmxNAxNuF9Jjt_1mQEeA11jVr2y9JlKkWMa9tFZpenCL8AxJZz66TexhAvphpLGspbjcZYfOf22Ok1vYqLH_MA9wlsTKeX08fBiIsPLDEUolmrK)<span id='siSmTZ2B2'/>
+- The **Displacement** is equal to the initial **Velocity** times the time, plus half the **Acceleration** times the time squared<span id='7g16zL0u7'/>
+- ![](https://lh3.googleusercontent.com/5R4w4GaOwElDfYWYTo8sXgCEMKU5-uLAIc8ZlM6iLJC4sYFkPEPFS44mpYg9jPJvN1wGxqOsKHC5FhrNxXeyfKn-g9SkHd-dvn_Bt7syEmbs2h6vMWWeFlruEqMv0Eb-ekVilb4n)<span id='aWIo1N6ab'/>
+- The final **Velocity** squared is equal to the initial **Velocity** squared plus twice the **Acceleration** times the **Displacement**<span id='AsWRTAJ6j'/>
+- ![](https://lh4.googleusercontent.com/9Hy5ZglhYqTeUPHP3YmtursPsSNTzf-WTfBnfcu5aNtlWr0T-6OIC3LmflJKLL-oxRf1-1Jy134Ml-r7pyHGL9EeyfHFTj-EKJzxcjBQ_ZXv3knKiL94L_FQw6PJY8ev6WClTa4F)<span id='9cfeyb5N1'/>
+- The total **Displacement** is equal to the average **Velocity** times the time<span id='742iDgYUO'/>
+- In the resources we’ve collected a nice summary of what you need to know on kinematics in a You Tube playlist.<span id='lBfvY-OKA'/>
+- ( https://www.youtube.com/watch?v=nMzjgSuePoE&list=PLlDtVvefFYT8kW-XqCiie_qP_NqkX8NAr )<span id='wZE7KN6zg'/>
+- **T - What do we need to know/understand/be able to do?**<span id='z5h0BP58Q'/>
+- The definitions of distance, **Displacement**, speed, **Velocity** and **Acceleration**<span id='NeT0Xtq8i'/>
+- How to use graphs to represent all of these quantities<span id='54QTt2w1B'/>
+- The **SUVAT** equations that represent uniformly accelerated motion in a straight line<span id='kVrF7qA3F'/>
+- H - We should be able to work out the **Displacement** from the area under a **Velocity**-time graph,<span id='DQFNK6Uaw'/>
+- work out the **Velocity** using the gradient of a **Displacement**-time graph,<span id='xfGen8_at'/>
+- work out the **Acceleration** using the gradient of a **Velocity**-time graph,<span id='csE7EQs8O'/>
+- derive, from the definitions of **Velocity** and **Acceleration**, the equations that represent uniformly accelerated motion in a straight line,<span id='o_kYAvOEN'/>
+- solve problems using equations that represent uniformly accelerated motion in a straight line, including the motion of bodies falling in a uniform gravitational field without air resistance,<span id='sc7op6Ufi'/>
+- describe an experiment to determine the **Acceleration** of free fall using a falling body<span id='E_mNjG1hv'/>
+- describe and explain motion due to a uniform **Velocity** in one direction and a uniform **Acceleration** in a perpendicular direction<span id='rYMSKF1BJ'/>
+- **T - How might we be tested on this?**<span id='vxm7GpNWI'/>
+- H - We will be tested on this in the written papers and also in the practical examinations.<span id='aPrEGK4v2'/>
+- **T - What common misconceptions are there in this topic?**<span id='9L2nlY8Gf'/>
+- H - The biggest misconception is the difference between speed and **Velocity**. Remember that speed is just the size of the movement, i.e. how quickly an object is changing position, but a **Velocity** is how quickly it is changing position in a particular direction.<span id='uF8Yl7h9t'/>
+- Consider a satellite orbiting the earth: it might well be moving at a steady speed but since it is continuously changing direction, it is changing its **Velocity** all the time.<span id='d2dN4MZKb'/>
+- T - This is important to physicists because whenever an object changes its **Velocity**, we know that there must be a net **force** on the object.<span id='sBSOG-1u2'/>
+- However, when an object moves at a steady speed we know that the sum of the **force**s on the object is zero.<span id='nG9Sse2tk'/>
+- H - There is also a misconception between distance and **Displacement** but the reality is that it is the misconception between speed and **Velocity** that is the most troublesome to students.<span id='nnoRbYCHM'/>
+- **T - What are typical mistakes to avoid, pitfalls to look out for in Kinematics?**<span id='CKfoSOqs0'/>
+- The most important thing to remember is when we are looking at graphs, what quantities do the axes of the graphs represent?<span id='qGfu4j_Uv'/>
+- Many times, we see students making errors by not paying careful attention to the labelling of a graph’s axes.<span id='v8qlG_khs'/>
+- H - And we’re done. There’s clearly a lot more we can do in this topic, but it’s going to work out best for you to have a crack at the questions we’ve put into the resources section. The ****SUVAT**** equations especially are something you’ll need to have down, as fast as your times tables.<span id='0iOC-fX25'/>
+- T - Ha ha, exactly. Anyway, have fun and we’ll see you in the next one.<span id='0peEVeAh6'/>
+- **Unlinked References**<span id='1RSanJl-m'/>

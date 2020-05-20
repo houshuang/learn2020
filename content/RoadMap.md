@@ -1,0 +1,26 @@
+---
+title: "RoadMap"
+---
+
+- The RoadMap for executing the [[Learn2020 Approach]] at the time of writing - **April 14th, 2020**<span id='ElXCzoCdv'/>
+- Phase 1. Content Production - April+<span id='yr-Fy2AhO'/>
+    - Produce Top-Quality Content: Notes, PDFs, Videos<span id='KVtOGXTW3'/>
+    - [[Atomic notes]] in Roam - such as this [[Extension of Springs & **Hooke's Law**]]<span id='MC-1x7A-F'/>
+    - **worked solution PDFs**<span id='Y6f9Ev7Y9'/>
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FpNRKIpcwuD?alt=media&token=a940a15b-07ca-4a24-a391-a71c22d0395c)<span id='ovB0DCoKu'/>
+    - [[worked solution videos]]<span id='5kHQS9EGk'/>
+- Phase 2. Deliver Free Content - April/May+<span id='Dd_hJ_B4l'/>
+    - to Large Public Communities: ZNotes, YouTube, Telegram, Facebook (April/May) https://t.me/Learn2020PhyInt<span id='G9mGhirbI'/>
+- Phase 3. Deliver paid Webinars - May+<span id='lxGtCeEDT'/>
+    - paid one-off premium content in form of live masterclasses - $5 per class using Zoom Webinars, run by our Top Teachers in the UK (May/June) e.g. something like this https://zoom.us/webinar/register/WN_fsV4WX1vToae8TjdDT9oNg<span id='mYcydamDK'/>
+- Phase 4. Create our own Learn2020 app - June+<span id='94B3V4iaP'/>
+    - Invite people into our premium communities using our own Social Network app (like Mighty Networks etc.)<span id='O6MrTnw1h'/>
+    - charge people a small amount to have access to all content (The Netflix Model, but through our own app) - maybe a very low price such as $10 per month but they pay for each live class separately<span id='ywg29jdki'/>
+    - OR a high price and they get free access to all masterclasses - $100 per month e.g. https://www.honeycommb.com/<span id='wkWNniDpE'/>
+- Phase 6. Develop the VR/Neurofeedback device to optimise learning for all students. (Jan 2022)<span id='ylp2Nt1gf'/>
+- Possible considerations:<span id='aM6nD8fKv'/>
+    - With the current virus situation I’m not planning to go back to China anytime soon. So I was thinking it might be worth getting a headquarters set up in Taipei.<span id='YDwYA00hE'/>
+    - I think we could create a flagship centre for workshops, neurofeedback training, and a broadcast centre for the remote school.<span id='0_eAjQSsR'/>
+    - We could even have real students coming to join the classes that are also broadcast. That mix of online and offline could be very interesting. We would of course charge much more for in-person, close to what a regular international school might charge.<span id='cxQWZViJ4'/>
+    - We can also sell all of our content: digital subject workbooks, neurofeedback training programmes, even print-on demand subjects workbooks etc.<span id='yzVUjCGpQ'/>
+    - How Best Math Academy and current CCEDA projects could align with this approach<span id='rZOeqolkt'/>

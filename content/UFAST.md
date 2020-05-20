@@ -1,0 +1,38 @@
+---
+title: "UFAST"
+---
+
+- U = UNPACK the Subject/Topic/Node<span id='TMry35mMG'/>
+    - **What’s the big idea?**<span id='AG8EQ1XUH'/>
+    - **Why is it important?**<span id='lS0qVSMS5'/>
+    - **What’s our starting point?**<span id='AeIyaeIqX'/>
+    - **What new things do we need to introduce and define?**<span id='J8pbFqwwM'/>
+    - **What do we need to know, understand and be able to do?**<span id='nfOCq1Yed'/>
+    - **How might we be tested on this?**<span id='75_qAtj_b'/>
+    - **What common misconceptions are there in this topic?**<span id='ge-uYxg5g'/>
+    - **What are the typical mistakes to avoid, pitfalls to look out for in this topic?**<span id='znra9Qyo_'/>
+- F = Figure out the FACTS<span id='fgFT2k3my'/>
+    - Terms<span id='fbHb9mx_B'/>
+    - Symbols<span id='lop_JMtsu'/>
+    - Context<span id='6k2O9Zjll'/>
+    - History<span id='u0H6ZVtv6'/>
+    - Definitions<span id='JzC2v70dR'/>
+    - Logic<span id='YaIpUaFWq'/>
+    - Laws<span id='qUf5_FGbN'/>
+    - Equations<span id='7Ne46-ZRD'/>
+    - Problems<span id='Day08XAdl'/>
+- A = Assimilate the ANALOGIES<span id='oDJAq_QRH'/>
+    - What is this topic a bit like?<span id='s1vyNZlbR'/>
+    - Move learners from the known to the unknown<span id='vEVaygsaO'/>
+- S = Soak up the STRATEGIES<span id='S8miQjBYe'/>
+    - Exposition of the procedures involved in answering questions and solving problems in this particular topic<span id='SpYG7cqH1'/>
+    - Tips, tricks, key insights<span id='fqspG2e-h'/>
+    - Fully worked solutions<span id='B4kE0M1ph'/>
+- T = TESTS for TRUTH<span id='f74HuNJVy'/>
+    - A rapid talk-through of as many past paper questions as possible to test learners’ understanding and practise the problem-solving aspect<span id='_92XYneXx'/>
+        - Can they actually **answer questions?**<span id='vntcVXkk1'/>
+- UFAST is the central process in [[The CASSIDY Method]] learning methodology. It's a 5-step process and it is used as the framework for learning anything new.<span id='6B--F1S1v'/>
+- UFAST can be delivered in different timeboxes depending on the time, energy and resource constraints.<span id='3YeXp1brJ'/>
+- If the [[timebox]] is one week, we use the [[The Learning Sprint]]<span id='OHn9gXLTO'/>
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FLearn2020zettelkasten%2FF4h89Dbfcb?alt=media&token=28d0ca44-b080-4bfa-be93-29a822f6b89a)<span id='Gj4rifdXH'/>
+- UFAST can be applied at different knowledge hierarchies: subject > topic > node to create maps at each level [[subject map]] > [[topic map]] > [[node map]]<span id='3dMeHDwIi'/>

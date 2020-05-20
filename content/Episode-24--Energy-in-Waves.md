@@ -1,0 +1,62 @@
+---
+title: "Episode 24: Energy in Waves"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='WOQHl7N-H'/>
+- H - Welcome back everybody. More stuff on waves today.<span id='gCRgPc71F'/>
+- T - So in the last episode we introduced the main concepts of waves and talked about progressive and standing waves and in particular we covered the two types of progressive waves; transverse and longitudinal waves.<span id='jA5G2So0A'/>
+- H - OK, so let’s move onto have a look at a language for Describing Waves so that we can create a way of talking to each other about waves that everyone understands.<span id='QOAl7d-ST'/>
+- T - So, what might we want to know about waves? They’re all about carrying energy, right, so what might we want to know about how they are carrying this energy?<span id='LBJb6g8EF'/>
+- H - Well one thing we’d probably want to know is how much energy they are carrying. And it turns out that there are two very different ways of approaching the question of ‘how much’ when it comes to waves.<span id='1Qp80wMlD'/>
+- T - Go on. Sounds interesting.<span id='MD4yJlL0b'/>
+- H - Well, let’s think of a vibration for a second. If a wave is all about carrying the energy of a wiggle, we might want to know something about the wiggle itself.<span id='4dUdd7XL7'/>
+- T - Yes, I’d probably first like to know how big the wiggle was. What was the size of the wiggle, how big was the disturbance, the vibration in terms of how much energy was involved in wiggling the thing about - the water, the rope, whatever.<span id='an-zId9n1'/>
+- H - Yes, we call this size of the wiggle the amplitude of the wave. It’s the maximum distance the thing moves from its position before it got wiggled. It really helps to have a look at a diagram now, so check out the resources and take a look at the diagram of a wave. The maximum **Displacement** from the neutral position is called the amplitude of the wave.<span id='iICv_ivKU'/>
+- T - In sound waves we detect this as the volume of the wave, and in light waves we detect this as the intensity of the wave - i.e. how bright the wave is. Technically, the intensity of a wave is proportional to the square of the amplitude. This makes sense is you think of a wave as having been caused by a vibration.<span id='vmfhmlKkx'/>
+- H - Yes, a vibration of an object is just a movement, and movement energy is therefore Kinetic Energy. From earlier episodes you will probably recall that the formula for Kinetic Energy is proportional to the **Velocity** squared. So it might make intuitive sense for the energy of the wave to be proportional to the maximum **Displacement** squared.<span id='GbCJ3H9sF'/>
+- T - it might make sense. But it also might not. [[Physics]] is pretty mysterious. However, we can accept that I’m sure.<span id='XxSYnbsnK'/>
+- H - In terms of the real [[Physics]] of the thing though - it makes sense that if you disturb something more, you need more energy to do so and if you let it go and then this energy moves through space as a progressive wave. So, the size of the disturbance being related to the energy makes intuitive sense.<span id='DW4pf0kNb'/>
+- T - So, what’s the other way of thinking about how much energy is in a wave?<span id='4xKcxe3zi'/>
+- H - Well this one is a lot more subtle. And it’s likely that you may not get it completely but let’s have a go anyway.<span id='UnzmY41cW'/>
+- T - OK. Why not?<span id='xH3cw7-1Z'/>
+- H - So, let’s go back to the idea of a wave being initiated by some kind of disturbance.<span id='o5sGwAMcR'/>
+- T - Yep, ok.<span id='3jyaBAp33'/>
+- H - Well, how fast that disturbance happened might be interesting to have a look at. Let’s say I was making waves by getting an electron to go up and down a metal wire. (This is indeed how we make radio waves by the way)<span id='WxomV4HrS'/>
+- T - OK, I’m making the electron go up and down the wire. How far up and down it goes, we’ve already talked about. This is the **Displacement** and the further I make it wiggle up and down, the more energy in the wave.<span id='ghN0KirJ8'/>
+- H - Precisely. But another factor is how quickly I make it go up and down. Let’s say I make the electron move up and down really super quickly. Do you think that will need more or less energy than making it move up and down really slowly?<span id='PpgPDINuB'/>
+- T - Intuitively, it would seem likely that I’d need more energy to make it wiggle faster.<span id='Assz0tLW0'/>
+- H - Indeed you would. If you are wiggling it the same distance up and down, the faster you wiggle it, the more energy you need and so the more energy there would be in the radio wave that shoots off through all of space.<span id='UVG6JUzvo'/>
+- T - So, this wiggle rate is important.<span id='-Kvr70v80'/>
+- H - Yes, the rate at which the electron is wiggling is very important. It takes twice as much energy to get it to wiggle up and down at twice the rate. The energy of a wave is proportional to the rate of wiggle.<span id='Jv_KYnBZ4'/>
+- T - And I imagine we use fancier words to describe this phenomenon?<span id='dY2cC1u1v'/>
+- H - Indeed we do. The rate we are wiggling the electron up and down the wire is called the frequency of the wave. And we use an official way to describe this frequency: the number of wiggles per second is the frequency, measured in Hertz, or number of waves per second moving past a certain point in space.<span id='9G_2dJH14'/>
+- T - You can also think of it as ‘how bunched up the waves are in time’. If there are lots of wiggles per second, it just means that lots of waves are being produced in a second and so they are all very bunched up.<span id='Yh1MUdtaE'/>
+- H - And it’s worth talking about the whole of the Electromagnetic Spectrum here for a second.<span id='Itkk-bhji'/>
+- T - You can think of all of these types of waves as being generated in the same way, with electrons wiggling up and down in a wire.<span id='5NZZQjzW9'/>
+- H - Yes, and if you wiggle them pretty slowly you make radio waves, and then wiggle them faster you get microwaves, faster still you get heat waves, which are commonly called infra-red waves. If you increase the wiggle rate even more you make visible light, then ultra-violet rays, then x-rays and finally gamma rays.<span id='aUprZdh-L'/>
+- T - So, these are all the same thing? Just at different wiggle rates?<span id='iqmPjZUCi'/>
+- H - Yes, precisely the same thing. Wiggling electrons makes electromagnetic waves and the rate of wiggle tells you the frequency of the wave.<span id='kduDZq1Ot'/>
+- T - The fastest wiggle rate requires the greatest energy and has the highest frequency.<span id='OJGWbwilG'/>
+- H - Yes, the energy of an electromagnetic wave is directly proportional to its frequency.<span id='3X8acFNmv'/>
+- T - So, why are some of them called rays, and some called waves?<span id='YlzY1oQb4'/>
+- H - That’s just convention. They’re all the same thing. Rays are just different names for waves.<span id='xxlsMKD84'/>
+- T - So, let’s now have a look at one final thing that we notice from the diagram of a wave, the length of the wave. What’s that all about?<span id='2sDImJZNP'/>
+- H - The length of a wave is actually quite a simple idea that can be confusing. You can see on the diagram that the wave’s motion is drawn like a perfectly repeating rollercoaster track, going up and down and repeating a pattern.<span id='fBiA0yHzm'/>
+- T - The wavelength is the distance from any point to the next identical point as the pattern repeats. So, you can think of it as going from top to top, or from bottom to bottom, it doesn’t matter.<span id='LgzuP6Ieg'/>
+- H - The top of a wave is called a crest and the bottom of the wave is called a trough and we usually say that the wavelength is the distance from one crest to the next, or from one trough to the next. If we choose any other point it can get tricky to know exactly where we are in the pattern and we can make mistakes.<span id='0eqUniyOx'/>
+- T - So, the wavelength is the length of the wave?<span id='SyIa0Xl_y'/>
+- T - Well it’s the distance covered in one cycle of the wave, the length a wave goes before it starts repeating itself.<span id='QUKgbHMWI'/>
+- H - In summary, the **Displacement** is how far up or down you are from the central line, the amplitude is the maximum **Displacement**, the frequency is the rate of the wave, i.e. how many waves you’ve got per second, and the wavelength is how long each cycle of the wave is.<span id='xnWi3LZiU'/>
+- T - So, a final term we need is the speed of a wave and this is what you might expect it to be. How fast a wave is moving through space.<span id='rJgfxasYF'/>
+- H - Well, we know from earlier work that speed is defined as the distance covered divided by the time taken. We can use **Velocity** here since we are always talking about speed in the direction of the wave’s travel.<span id='Bfs2YE96N'/>
+- T - OK, so the distance traveled by a wave divided by the time taken. How do we work that out?<span id='wI5n4u1b6'/>
+- H - Well, let’s consider one wavelength. How far does one wavelength move in one second? IT turns out we can use the frequency to help us.<span id='WacqBnG1-'/>
+- T - If a wave is 2 metres long and it is being created at a rate of 10 waves per second, let’s imagine what would happen if you were watching these waves go past you.<span id='FoWIQQc7a'/>
+- H - A frequency of 10 waves per second means that 10 waves move past you in one second. If 10 waves didn’t move past in one second they would all bunch up and crash into each other, or spread out and that wouldn’t work very well.<span id='1SBy7yczQ'/>
+- H - So, 10 waves, each wave being 2m long, move past you in one second. So, the energy has moved a total distance of 20 metres in one second.  This means that the energy is being propagated at a rate of 20 metres per second. We call this rate of propagation of energy, the **Velocity** of the wave and we link it to the wavelength and the frequency using this simple equation:<span id='WbI9Ib2Z5'/>
+- **Velocity** equals frequency times wavelength, or v = f lambda<span id='QXPmveTqD'/>
+- (lambda is the symbol we use for wavelength and looks like the upside down y)<span id='hIlquh5Ox'/>
+- T - The frequency is measured in Hertz which also have the units of seconds to the minus one. This makes sense because a frequency is really a ‘number of events per unit time’.<span id='oZTtj3ag-'/>
+- H - OK, so, let’s leave it there with this episode.<span id='89H2LAcJr'/>
+- T - In the next one we’ll have a look at some aspects of the electromagnetic spectrum and the Doppler Effect.<span id='8GKZ2RjrT'/>
+- **Unlinked References**<span id='EVQXoYKwD'/>

@@ -1,0 +1,102 @@
+---
+title: "Episode 12: Dynamics Part 3 - Momentum and Newton's 3rd Law"
+---
+
+- [[Advanced Physics Podcast Series]]<span id='JSqA76sBh'/>
+- H - And we’re back, talking about the wonderful world of dynamics, and why it’s so extraordinarily counter-intuitive...<span id='UH9hSp9w-'/>
+- **What common misconceptions are there in this topic?**<span id='3DJ8OlhLW'/>
+- One interesting misconception for most people is that Newton’s Second Law is NOT really F = ma, that’s just a special case when the mass you are dealing with is constant.<span id='ZVcMwGSpr'/>
+- H - Yes, that’s a little understood fact. Here’s a little more on the second law that should give a better understanding of the [[Physics]] going on.<span id='QqaiCtckG'/>
+- T - How do you mean?<span id='1DVUZ2MlI'/>
+- H - Well, the second law says basically that you’re going to need a **force** if you want to change the momentum of something, and the momentum change it experiences depends on the size of the **force** applied and the angle that the **force** is applied.<span id='NOkUQPkDi'/>
+- T - I remember experiencing this angle effect this most dramatically when pushing you around when you were a kid in one of those go-cart-type toy cars. You remember that thing you had? You have to get down really low in order to be effective when you’re pushing those things, so that the **force** you apply is in line with the direction you want the car to go. If you try pushing them when you’re standing up, it’s easier for your back, but the car just won’t go very well!<span id='98WcxxvFf'/>
+- H - Oh yeah, I kind of remember that thing<span id='egnmVb2vq'/>
+- T - Well, it gets worse. Some bright spark in a company’s marketing team thought it would be a good idea to give those toys a long handle, you know, like a broom handle, so that you could push it from an upright position, just as you walk along, without having to bend your back.<span id='xjWupdd5R'/>
+- H - Go on…<span id='LagpWCHxR'/>
+- T - Well, the guy who came up with this neat idea, clearly hadn’t studied much [[Physics]], because the amount of effort you had to put in to get the cart to move forward, when the line you were pushing was so far removed from the line that the car was traveling was astronomical.<span id='MKzjXe-WL'/>
+- H - Not literally astronomical.<span id='eejU8Z8Xh'/>
+- T - Clearly not. But it was a ridiculous amount of effort required to just push a kid around in a toy car. You loved it, mind. grrrrrrrr…...<span id='l5lguXvrS'/>
+- Anyway, back to the fact that Newton’s second law is actually not the same as F = ma.<span id='eHdNK7nRX'/>
+- H - Ok, yes. Let’s cover that one.<span id='F-eLApQBq'/>
+- The second law strictly talks about the ‘rate of change of momentum’ of an object and says that this is proportional to the ‘effective’ **force** applied (which allows for the fact that the **force** might be applied at an oblique angle etc)<span id='OpNGL5-aW'/>
+- T - OK, so we get this by now. The body is changing its momentum and how quickly it changes its momentum depends on the applied **force**. So the **force** is proportional to the momentum change divided by the time taken for this change<span id='BKJ_VIvdo'/>
+- H - Precisely. However, momentum is given by mass x **Velocity**, right?<span id='8Yn_9gQCS'/>
+- T - Yep? And…<span id='82j6HfQfq'/>
+- H - and so the momentum change divided by time is the change in mass x **Velocity** divided by time?<span id='RSFEbcLUD'/>
+- T - Yes, and since **Velocity** divided by time equals **Acceleration**, the momentum change divided by time is just mass x **Acceleration**, right?<span id='TAs6x5Q8M'/>
+- H - No! Well, not quite. You’re assuming that it is only the **Velocity** of the object that can change. What if the mass of the object can change as well?<span id='sNxkL5h5_'/>
+- T - What do you mean?<span id='5Padt7W66'/>
+- H - Well, what about a raindrop falling, or a conveyor belt transporting sand, or a particle being accelerated in the Large Hadron Collider?<span id='qzkik5OYi'/>
+- T - Right! In each of these situations, the mass is changing AS WELL AS the **Velocity**.<span id='loLlUj1lv'/>
+- H - Precisely. So, in reality Newton’s second law being reduced to F = ma, only holds true when a body has constant mass.<span id='qg3XTL7lM'/>
+- T - When it has a changing mass you need to add another part to the equation, that you don’t really have to know how to do, but we have added the maths side of things for those of you that want to know it in the resources section.<span id='oloLnTJtd'/>
+- H - The main thing is that you need to get a feel for what momentum is, and that a changing momentum can really happen in a few different ways, and so a **force** is involved in a few different situations, using plain English:<span id='bCEloRRWB'/>
+- Situation 1:<span id='8lt3J9tYg'/>
+- The object is changing its speed. - Speeding up or slowing down<span id='f9wVKn0Kn'/>
+- Situation 2:<span id='G69o1mZS1'/>
+- The object is staying at the same speed, but it is changing direction. It could be moving in a circle for example, like a satellite orbiting a planet, or a ball on the end of a twirling rope<span id='7TN_aAloA'/>
+- Situation 3:<span id='Dd_HP7wo2'/>
+- The object is staying at the same speed, and in the same direction, but it is changing in mass. For example a raindrop accumulating mass as it falls.<span id='t3BE8MEcX'/>
+- **How might we be tested on this?**<span id='EZxQcgpYU'/>
+- You’re going to get tested on the conceptual side of things, and you’ll be tested on the procedural side of things too.<span id='YS5EZFpuU'/>
+- In other words, you need to know the thinking behind the concepts but you also need to know the procedures to work through some problems.<span id='zC4R5k2Ci'/>
+- You’ll really need to be very comfortable with the following three ways of using Newton’s 2nd Law:<span id='xNpBWtlT5'/>
+- F = ma,<span id='nTZDijmMA'/>
+- F = change in momentum divided by time,<span id='T350xz3hz'/>
+- **force** x time = change in momentum<span id='IP98wo0-t'/>
+- And for Newton’s 3rd Law, you’ll need to know:<span id='k3jvVAgD1'/>
+- momentum before = momentum after<span id='xux0iHnj_'/>
+- I.e. (before) m1v1 + m2v2 + … = (after) m1v1 + m2v2 + ....<span id='gY9FOdn6d'/>
+- **T - What are the typical mistakes to avoid, pitfalls to look out for in this topic?**<span id='N5nTvwvab'/>
+- H - The key to the whole of (classical) dynamics is to be able to identify the difference between the effects of momentum and the effects of energy. It’s vitally important not to confuse the two.<span id='BY36ZZUxt'/>
+- T - OK, so is there something that we experience in everyday life that helps us intuitively discern what momentum is like and how it is different from energy? Something with which we are truly familiar?<span id='-9eobZRLE'/>
+- H - Yes, and no! It’s actually really difficult for humans to tell the difference between the momentum of something and its energy.<span id='wuh2wVzQC'/>
+- In fact, for a long time physicists didn’t distinguish between these two phenomena and there was a big divide between English and French physicists on this point.<span id='W0C761dqw'/>
+- People knew that moving objects had the ability to do things that stationary objects didn’t. They called this ability ‘impedo’ and it preceded all ideas about **force**, momentum and energy. The problem was that this phenomenon that objects ‘acquired’ as a result of their motion could be thought to arise in two ways, giving two distinct differences.<span id='Zx0M4aymj'/>
+- If you considered an object to have achieved its impedo as a result of speeding up for a certain time, you got one property, and if you thought of impedo being acquired as a result of an object speeding up over a certain distance you got another quantity.<span id='_dC3OIB3h'/>
+- T - Really? What do you mean?<span id='d7fjhFxUS'/>
+- H - Well, let’s think of an apple falling from a tree branch. If it acquires its impedo as a result of how far it falls, you find that you get 4 times the impedo when you double the height of the drop. This was the French idea of Impedo, championed by Lagrange.<span id='y3HknWBPK'/>
+- T - go on<span id='VfRdAyHaX'/>
+- H Yet, if you think of the impedo as a result of how long it is falling, you find that you get double the impedo when you double the height of the drop. This was Newton’s idea of impedo, taken up by the English.<span id='A2rjigdI_'/>
+- T - so, it turns out that these two ideas of impedo, couldn’t both be representing the same phenomenon, and indeed they weren’t. Impedo was an imprecise concept that was really a conflation of two distinct quantities - kinetic energy and momentum. The French impedo became known as ‘energy due to motion’ or Kinetic Energy, and the English impedo became known as ‘momentum’.<span id='6WFQlYXr_'/>
+- Kinetic Energy is proportional to the **Velocity** squared, and hence it would increase more rapidly than the momentum which is just proportional to the **Velocity**. This explained the apparent discrepancy between the two phenomena.<span id='X9LFsvQJy'/>
+- H - So, we don’t have to feel that bad about getting these two ideas muddled up, because it took some of the world’s best scientists a few centuries to figure it out!<span id='SkJZl5rTf'/>
+- T - Exactly! And so let’s consider the previously mentioned example of a rubber bullet and an aluminium bullet of equal mass and equal **Velocity** striking a tin can of peaches as a target.<span id='qi68W65xQ'/>
+- H - Which one is more likely to knock the tin can over?<span id='fASU-Uq3y'/>
+- H - Which one will do the more damage?<span id='ZniLDPdtn'/>
+- T - Now, if you go through this as a gedanken experiment (thought experiment) we need to consider what happens in each case...<span id='XWjZ4nQxR'/>
+- H - In the case of the rubber bullet, the bullet bounces off the tin can and rebounds, since the impact of rubber on a dense metal surface is virtually elastic. Whereas in the case of the aluminium bullet, the tin can surface is punctured and the aluminium bullet comes to a stop inside the can.<span id='rYjPcK8yy'/>
+- T - Think about the differences in those scenarios for a second, before you go through the [[Physics]]. What’s going on in terms of the momentum and in terms of the energy?<span id='xtB6xS7LX'/>
+- H - Sometimes, it actually helps us to distinguish the cases by using the equations, and in this case, it’s the equations that highlight the key differences very clearly.<span id='IU5xT3EHP'/>
+- T - OK, so let’s have a look in terms of momentum first:<span id='qLdlq08ig'/>
+- H - Well, for simplicity let’s assume each bullet has a mass of 10 g and a **Velocity** at impact of 500 meters per second.<span id='tuD2dh1k9'/>
+- In the case of the rebounding, rubber bullet, it is initially moving towards the can with a momentum of 0.01 kg x 500 metres per second, i.e. 5 kg metres per second (often the unit of momentum is given as newton seconds or Ns) but then after impact the bullet is now moving away from the can, in the opposite direction at 500 metres per second.<span id='7eUOP-JGu'/>
+- If we assume that the bullet hasn’t lost any mass, it will now have a momentum of 5 newton seconds in the opposite direction.<span id='146HSpr69'/>
+- So, it will have had a change of momentum of 10 Ns (+ 5 Ns - - 5 Ns). This makes sense intuitively, since the can had to not only take away the rubber bullet’s initial momentum, but it also had to give it an equal and opposite momentum so that it could bounce back, at the same speed.<span id='HIFz2YLnG'/>
+- T - Of course, a real collision wouldn’t be perfectly elastic, so the bullet would come away from the can at a slightly reduced speed, but let’s assume for this thought experiment that it’s a valid approximation.<span id='hHqkG42jq'/>
+- H - Now, let’s consider the momentum of the aluminium bullet. Clearly, since it has the same initial **Velocity** and mass, it will have the same initial momentum, i.e. 5 newton seconds, but as the aluminium bullet punctures the can and stops inside it, it’s final **Velocity** - and hence momentum - will be zero.<span id='A3EFPA_iS'/>
+- T - So the momentum change of the aluminium bullet is only 5 newton seconds, which means that the momentum change of the rubber bullet is twice the momentum change of the aluminium bullet.<span id='_jSBstRHe'/>
+- H - Precisely. So, the next question is, what provided this momentum change in each case? Well, since there were no other protagonists in the scenario, in each case the momentum change must have been provided by the tin can.<span id='q9iu-X0vU'/>
+- T - And since Newton’s second law states that the **force** is proportional to the rate of change of momentum, we can reason that the **force** provided by the tin can is greater in the case of the rubber bullet. (this assumes that the impact time in each case was the same - it does get a bit messy, but it’s a reasonable estimate for our purposes)<span id='PKUWGji76'/>
+- H - And from Newton’s 3rd law, which dictates that the **force** provided by the can is equal and opposite to the **force** provided by the bullet, we can deduce that the **force** on the can as a result of its collision with the rubber bullet is approximately twice the size of the **force** due to the aluminium bullet.<span id='uEo3KEFz_'/>
+- T - So, the rubber bullet is twice as likely to knock the tin can over?<span id='L8Is0WJ5A'/>
+- H - Indeed it is. Which is totally counter-intuitive to most people.<span id='MvUDYf0Vz'/>
+- T - So, what about the damage question? The rubber bullet exerts twice as much **force** as the aluminium bullet, so surely it must do twice as much damage?<span id='STwvXiR94'/>
+- H - Well, this is where our natural intuition falls foul of [[Physics]] definitions. We feel like we ‘know’ that damage is caused by **force**, but it turns out that damage and **force** are not related in the way we might think.<span id='7gjbbpDij'/>
+- T - Damage is however intrinsically linked to energy. When the ‘energy’ of the bullet is dissipated, we have to think about where that energy goes, and how this energy lost by the bullet is absorbed by the tin can.<span id='53U4J991E'/>
+- H - According to the principle of the conservation of energy, energy can never be lost, but merely converted from one form into another. The energy of interest in this case is the movement energy of the bullet - we call this the bullet’s ‘kinetic’ energy or K.E.<span id='dhLS4nxvc'/>
+- T - This is the energy the bullet has by virtue only of its **Velocity**, and it can be calculated using the equation KE equals one half times the mass times the **Velocity** squared of the bullet<span id='HcxY_-xyH'/>
+- We often say this as KE = ½ m v squared<span id='u3-0gMOPU'/>
+- H - So, in the case of the rubber bullet, since its **Velocity** is the same magnitude, but in the opposite direction, its kinetic energy is unchanged. The tin can may well have been knocked off, but no energy has been lost by the rubber bullet, so no damage can have been done to the tin can (ignoring any subsequent impact of the tin can on the ground obviously!)<span id='ItfeX_z17'/>
+- T - Whereas in the aluminum bullet’s case, ALL of its kinetic energy has gone into the tin can, since the bullet now has no **Velocity**. Thus this energy has all gone into the tin can, changing the shape of the can, heating the contents up, creating a large sound, and possibly exploding the can into multiple fragments.<span id='s58OW9zeE'/>
+- H - So, the key thing here is quite weird. The rubber bullet imparts more **force** but does no damage, and the aluminium bullet imparts less **force** but does a whole lot of damage.<span id='y_NKp7Q9H'/>
+- T - There is another way of working out the link between damage and **force**, and that relates to the distance traveled by the bullet under a stopping **force**. Let’s assume that the bullet travels 5 cm into the can before it stops. We can calculate the average stopping **force** on the bullet by the can, if we assume that the energy required to stop the bullet was equal to the stopping **force** times the stopping distance.<span id='8_4Su2_-c'/>
+- H - This is simply the equation for the **work done** by a **force** when it moves through a certain distance: **work done** equals **force** times Distance<span id='DT8tt4v2-'/>
+- T - The kinetic energy of the bullet at impact is 0.5 x 0.01 kg x 500 metres per second squared, which is equal to 1250 joules<span id='hFg0QMtKx'/>
+- The stopping **force** is then the Kinetic Energy ( 1250 joules) divided by the stopping distance, (0.05 metres) which is 25,000 newtons.<span id='IzON4Vkss'/>
+- H - And finally, we can use this stopping **force** to calculate the time the bullet takes to come to rest using Newton’s second law.<span id='FlL77HlVD'/>
+- Using the fact that the **force** is equal to the change in momentum divided by the time taken for the change, we can say that 5 newton seconds of momentum is reduced to zero by a stopping **force** of 25,000 newtons in (5 divided by 25000) seconds, or 0.0002 seconds (2 times 10 to the -4 seconds.)<span id='Vkv7PJ7XM'/>
+- T - OK, so that’s surely enough on momentum, **force**, and newton’s laws.<span id='RGgSLbWKB'/>
+- H - Absolutely. Let’s not forget that listening to these podcasts is no substitute for cranking out a bunch of solutions to problems, but it’s so valuable for you to be developing your intuition as a physicist and the more you think at the conceptual level, the better you’ll get at knowing when to use which equations.<span id='Wa0SfoWYJ'/>
+- T - Great stuff. See you in the next one.<span id='F-0xBFe0n'/>
+- **Unlinked References**<span id='s_eJGzNid'/>

@@ -1,0 +1,37 @@
+---
+title: "One Thing At A Time"
+---
+
+- The Second Dogma: One Thing At A Time<span id='G7awkIBEx'/>
+- The second dogma is the magic of focusing on just one thing at a time.<span id='Etkf9TXAX'/>
+- For this one, I'm going to take you back to 1726 and introduce you to one of the greatest contributors to the field of self-improvement, Benjamin Franklin.<span id='N0GArqkDS'/>
+- Franklin, the statesman, polymath, and United States' founding father, came up with the best system for self-mastery that I've come across in over 20 years of research in the field. A system so good, so simple, so obviously genius, yet mystifyingly, still so obscure.<span id='XQ3cm6EBs'/>
+- First, for those who are unfamiliar with Franklin's accomplishments, let's have a quick look at his wikipedia entry:<span id='8zwGC2i7B'/>
+- __Franklin was a leading author, printer, political theorist, politician, postmaster, scientist, musician, inventor, satirist, civic activist, statesman, and diplomat. As a scientist, he was a major figure in the American Enlightenment and the history of physics for his discoveries and theories regarding electricity. He invented the lightning rod, bifocals, the Franklin stove, a carriage odometer, and the glass 'armonica'.[1] He facilitated many civic organizations, including a fire department and a university.__<span id='oUv3XgJkX'/>
+- He was also a hugely successful businessman, social genius, founding father, signatory of the constitution, etc. However, it turned out that he wasn't always such a legend...<span id='c7HR2FsJf'/>
+- The young Ben Franklin was a bit rough around the edges, prone to vehemently arguing his case in all matters and alienating colleagues. Fortunately, he realised he needed to do something about this tendency, and so he decided to work on developing more amenable character traits. However, he was unsuccessful despite considerable application as he soon got overwhelmed by the magnitude of the task.<span id='TmlarpMPu'/>
+- After much rumination, Franklin posited that it may work better to focus on improving just one thing at a time, rather than try and work on everything at once.<span id='ZOZJKAaiw'/>
+- So he selected 13 character traits that he believed important for business and social success, and resolved to focus on just one of these for a week at a time, leaving all others to their natural chance. The following week he moved to the next characteristic and he continued thus until he had covered all thirteen, ergo taking thirteen weeks to complete. At this point, Franklin just went back to the first week's aspect and started repeating the cycle. Since 13 x 4 is 52, it meant that 4 cycles fitted perfectly into the year. The virtues that Franklin chose were the following:<span id='aMcHtI-Sp'/>
+    - Temperance<span id='9kvRZ1lEx'/>
+    - Silence<span id='rpoDNjorN'/>
+    - Order<span id='Br77RyKRi'/>
+    - Resolution<span id='RUYOaCf6p'/>
+    - Frugality<span id='deNIo2O_b'/>
+    - Industry<span id='WdpEmwpSv'/>
+    - Sincerity<span id='JbKBDI1t_'/>
+    - Justice<span id='3lv4gDamq'/>
+    - Moderation<span id='zwxg-iSEC'/>
+    - Cleanliness<span id='lx7Dq4nhh'/>
+    - Tranquillity<span id='Na0d54M_J'/>
+    - Chastity<span id='u7UqUHVIv'/>
+    - Humility<span id='LbAYgQLWR'/>
+- Franklin achieved extraordinary success by any polymath's standards, yet, he noted in his autobiography that he felt his greatest contribution to posterity, and the one that he wished most fervently his progeny would heed, was his system for self-mastery.<span id='UVoKWAmmr'/>
+- __'It may be well my posterity should be informed that to this little artifice, with the blessing of God, their ancestor ow'd the constant felicity of his life, down to his 79th year, in which this is written.'__<span id='vVLGYxgsS'/>
+- OK, so how does Franklin’s system help us with our objectives?<span id='4wBBbEO8X'/>
+- Well, this is where I come in! My modest contribution to the field of self-mastery began in 1994 when I realised that Franklin's genius wasn't really in the specific virtues he chose, but rather in the system itself. I wondered, somewhat heretically at the time, whether the virtues themselves couldn't be replaced with other attributes.<span id='Tre3S8cdr'/>
+- Let's say I was interested in getting fit, or learning the guitar, or becoming a better parent: couldn't I just find out which characteristics would be the most useful to achieve a particular goal, and then use a 13x4 system to focus on each attribute, one at a time, until I had them all mastered?<span id='_uGNDOo23'/>
+- Well it turns out that indeed I could and that's precisely what I've been very gradually doing over the last twenty years. I've been customising Franklin's system to create 13x4's for teaching, for leadership, for problem-solving, for getting the right career, for relationships, for mindfulness and most recently for eating.<span id='00gcBqT4H'/>
+- And somewhat unsurprisingly, it's worked remarkably well.<span id='1Jjv3qkYS'/>
+- So, let's have a quick recap:<span id='rIW7NLNQ7'/>
+- The first dogma proposes that mastery of anything can be achieved by breaking it down into components and getting better at each component.<span id='evSgATmYf'/>
+- The second dogma proposes that the most effective way to get better at each component is to focus on just one component at a time using the 13x4 system.<span id='g-wOlN00u'/>

@@ -1,0 +1,38 @@
+---
+title: "Taipei Plans"
+---
+
+- This update follows conversations with Vincent on **April 19th, 2020**<span id='syIWo90cq'/>
+- Summary<span id='BLipTxzTJ'/>
+    - He wants to go ahead with establishing a centre in Taipei and has asked me to create a detailed plan for how that will happen.<span id='LwM_MXkOr'/>
+    - I will send an outline to him by Tuesday once I’ve got some input from the rest of the Learn2020 team.<span id='fHDEiJvPu'/>
+    - He wants us to now get deep into the details of exactly how it will work.<span id='oXEO0M-Cc'/>
+- Details<span id='dOjqhjb6t'/>
+    - Discussed the general approach [[Learn2020 Approach]] and the [[RoadMap]]<span id='dGW3bofGq'/>
+    - He’s keen to continue with our plans to form a corporation and set up an HQ in Taipei as a place to launch from into China.<span id='WwlOpUy6I'/>
+        - Taipei is a cool city, we don’t need visas to visit and it’s a democracy<span id='CgLUfBlga'/>
+        - It’s one-step removed from CCP influence, yet close to China. And while they have a healthy distrust of China, they do a lot of business with the mainland.<span id='zjQFAuK8_'/>
+        - It’s in the same timezone as China.<span id='k_XeAE8NX'/>
+        - Vincent has a ton of great connections in China, including connections with the Chinese National Digital Library, CCTV and TenCent.<span id='-qmjPR8n0'/>
+        - Vincent is confident that doing things in China will end up with us getting ripped off by our ‘Chinese partner’.<span id='05aECN1Jt'/>
+    - He liked the idea of a flagship centre: ‘Apple Shop x TV Studio’ where we would run demos of the tech, the techniques and also use as a centre for small group workshops/events broadcasting and also as a conduit for all our teachers remaining in the UK etc.<span id='g3nJwTcRF'/>
+    - He acknowledges that the market is filling up pretty fast with online learning solutions but he hasn’t been impressed by anything he’s seen so far. He stressed that most online learning seems to be little more than delivering school lectures online and any technologies were at best gimmicky and at worst, negatively impacting on the learning experience.<span id='tH5QaLNvk'/>
+    - He liked the T3 approach and in particular the idea that we really did have some different approaches to both the actual learning and the delivery of the learning through the [[Mastercasts]] and devices like Learning Sprints<span id='NYTxwcT8X'/>
+    - He suggested the approach should be flexed somewhat. Instead of going big on the T3 approach, he suggested that this ecosystem, while important, is of secondary importance to people.<span id='HvN8vDCri'/>
+    - He suggested that the best thing to do first is to satisfy what he calls the **hard demand** - something that people are already searching for and are prepared to pay a lot of money for - e.g. getting their children into better universities.<span id='VLko97NIi'/>
+    - Step 1 - Meet the hard demand<span id='kYbNXjrjr'/>
+    - Step 2 - Offer the stretch of the skills, [[The CASSIDY Method]] techniques<span id='IE4XIJI5-'/>
+    - Step 3 - Offer a personalised service that utilises more of the tech side of things: e.g. the neurotraining programme, personal mentoring etc.<span id='yVeCRjNOR'/>
+- Next Actions:<span id='VoiHp00D2'/>
+    - Tom and team to put together a detailed plan of how our educational process works and and a proposal for how we will demonstrate its effectiveness in meeting the **hard demand**<span id='OAvkm4fdh'/>
+    - Tom to send outline of plan to Vincent by Tuesday 21 April, with a view to completing it by Friday 24 April<span id='SxtKe08gP'/>
+- My initial thoughts about how we might do it:<span id='s8bXbnJqI'/>
+    - Plan to do a test in a single subject at a high-enough level, say AP Chemistry<span id='fLFVxhilb'/>
+    - Orchestrate a 5-day Learning Sprint in Taipei this summer (COVID-19 permitting) with 5/6 students.<span id='YU7bHxl8C'/>
+    - AD to lead, Dom as Sprint Master, Tom as overview and coordination<span id='5cADat98c'/>
+    - Film the whole process, record everything. Live broadcast the whole event.<span id='t_pzj60WN'/>
+    - Do as a full learning sprint with a Monday am pre-test and a Friday pm post-test.<span id='SXZtKeKUJ'/>
+    - Create a spanky looking digital workbook, have the students use iPads for the entire process - or could produce a beautifully printed printed workbook<span id='llFUW6a1c'/>
+    - Use it to produce a ton of marketing materials, evidence of the effectiveness of the process, including students’ academic progress in 5 days as well as their video testimonials.<span id='ULL03gV3Y'/>
+    - We will also use the footage to compile resources for training future staff etc, - basically a full on package so that all future training centres, CCEDA schools, anyone would be able to run their own local sprints, when plugged into our central broadcasts<span id='rWDVDAGYY'/>
+    - The future central broadcasts would be organised by our subject experts, and would be used as the expertise for any remote sprints, either run in our own schools with local sprint masters, or through our training centres etc.<span id='W_DQ83V-7'/>
